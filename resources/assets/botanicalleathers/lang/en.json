@@ -39,6 +39,9 @@
   "botanicalleathers:item-corkmaterial-raw": "Oak Bark (raw)",
   "botanicalleathers:item-corkmaterial-sheet": "Cork (sheet)",
   "botanicalleathers:item-corkmaterial-soaked": "Oak Bark (soaked)",
-
+  "botanicalleathers:item-corkbundle-prepared": "Corkbundle (prepared)",
+  "botanicalleathers:item-corkbundle-steamed": "Corkbundle (steamed)",
+  
+  "botanicalleathers:item-driedfruitpulp": "Dried fruit pulp",
   "item-hardenedfruitpitch": "Hardened fruit pitch"
 }

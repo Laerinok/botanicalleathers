@@ -32,8 +32,8 @@
       "metal": { "base": "item/corkmaterial/{type}" }
     }
   },
-
   "maxstacksize": 64,
+  "materialDensity": 600,
   "creativeinventory": {
     "general": [ "*" ],
     "items": [ "*" ],
@@ -45,20 +45,6 @@
     },
     "displaycaseable": true,
     "shelvable": true
-  },
-  "attributesByType": {
-    "*-prepared": {
-      "combustibleProps": {
-        "meltingPoint": 200,
-        "meltingDuration": 20,
-        "smeltedRatio": 1,
-        "smeltedStack": {
-          "type": "item",
-          "code": "corkmaterial-steamed"
-        },
-        "requiresContainer": false
-      }
-    }
   },
   "transitionablePropsByType": {
     "*-soaked": [
@@ -77,7 +63,7 @@
       {
         "type": "Dry",
         "freshHours": { "avg": 0 },
-        "transitionHours": { "avg": 2 },
+        "transitionHours": { "avg": 3 },
         "transitionedStack": {
           "type": "item",
           "code": "corkmaterial-prepared"
@@ -85,6 +71,28 @@
         "transitionRatio": 1.0
       }
     ]
+  },
+  "combustiblePropsByType": {
+    "*-prepared": {
+      "*-raw": {
+        "burnTemperature": 600,
+        "burnDuration": 10
+      },
+      "*-soaked": {
+      },
+      "*-prepared": {
+        "burnTemperature": 600,
+        "burnDuration": 15
+      },
+      "*-steamed": {
+        "burnTemperature": 500,
+        "burnDuration": 5
+      },
+      "*-sheet": {
+        "burnTemperature": 800,
+        "burnDuration": 25
+      }
+    }
   },
   "guiTransformByType": {
     "*-sheet": {

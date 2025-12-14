@@ -1,0 +1,57 @@
+[
+  {
+    "file": "game:recipes/grid/debarkedlog.json",
+    "op": "replace",
+    "path": "/0/ingredients/L/code",
+    "value": "log-placed-oak-ud"
+  },
+  {
+    "file": "game:recipes/grid/debarkedlog.json",
+    "op": "replace",
+    "path": "/0/output/code",
+    "value": "debarkedlog-oak-ud"
+  },
+  {
+    "file": "game:recipes/grid/debarkedlog.json",
+    "op": "addmerge",
+    "path": "/0/ingredients/L/returnedStack",
+    "value": {
+      "type": "item",
+      "code": "botanicalleathers:corkmaterial-raw",
+      "quantity": 4
+    }
+  },
+  {
+    "file": "game:recipes/grid/debarkedlog.json",
+    "op": "add",
+    "path": "/-",
+    "value": {
+      "ingredientPattern": "AHL",
+      "ingredients": {
+        "A": {
+          "type": "item",
+          "code": "axe-*",
+          "isTool": true
+        },
+        "H": {
+          "type": "item",
+          "code": "hammer-*",
+          "isTool": true
+        },
+        "L": {
+          "type": "block",
+          "code": "log-placed-*-ud",
+          "name": "wood"
+        }
+      },
+      "width": 3,
+      "height": 1,
+      "shapeless": true,
+      "output": {
+        "type": "block",
+        "code": "debarkedlog-{wood}-ud",
+        "quantity": 1
+      }
+    }
+  }
+]

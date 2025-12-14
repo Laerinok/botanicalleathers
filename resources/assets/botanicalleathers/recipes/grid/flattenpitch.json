@@ -1,0 +1,90 @@
+[
+  {
+    "ingredientPattern": "H,P",
+    "shapeless": true,
+    "ingredients": {
+      "P": {
+        "type": "item",
+        "code": "botanicalleathers:hardenedfruitpitch",
+        "quantity": 2
+      },
+      "H": {
+        "type": "item",
+        "code": "game:hammer-*",
+        "isTool": true
+      }
+    },
+    "width": 1,
+    "height": 2,
+    "output": {
+      "type": "item",
+      "code": "botanicalleathers:botanicalhide-raw-small-fruit"
+    }
+  },
+  {
+    "ingredientPattern": "H,P",
+    "shapeless": true,
+    "ingredients": {
+      "P": {
+        "type": "item",
+        "code": "botanicalleathers:hardenedfruitpitch",
+        "quantity": 5
+      },
+      "H": {
+        "type": "item",
+        "code": "game:hammer-*",
+        "isTool": true
+      }
+    },
+    "width": 1,
+    "height": 2,
+    "output": {
+      "type": "item",
+      "code": "botanicalleathers:botanicalhide-raw-medium-fruit"
+    }
+  },
+  {
+    "ingredientPattern": "H,P",
+    "shapeless": true,
+    "ingredients": {
+      "P": {
+        "type": "item",
+        "code": "botanicalleathers:hardenedfruitpitch",
+        "quantity": 10
+      },
+      "H": {
+        "type": "item",
+        "code": "game:hammer-*",
+        "isTool": true
+      }
+    },
+    "width": 1,
+    "height": 2,
+    "output": {
+      "type": "item",
+      "code": "botanicalleathers:botanicalhide-raw-large-fruit"
+    }
+  },
+  {
+    "ingredientPattern": "H,P",
+    "shapeless": true,
+    "ingredients": {
+      "P": {
+        "type": "item",
+        "code": "botanicalleathers:hardenedfruitpitch",
+        "quantity": 20
+      },
+      "H": {
+        "type": "item",
+        "code": "game:hammer-*",
+        "isTool": true
+      }
+    },
+    "width": 1,
+    "height": 2,
+    "output": {
+      "type": "item",
+      "code": "botanicalleathers:botanicalhide-raw-huge-fruit"
+    }
+  }
+]

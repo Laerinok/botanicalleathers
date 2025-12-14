@@ -1,0 +1,370 @@
+{
+  "code": "botanicalhide",
+  "class": "Item",
+  "variantgroups": [
+    {
+      "code": "states",
+      "states": [ "raw", "prepared" ]
+    },
+    {
+      "code": "size",
+      "states": [ "small", "medium", "large", "huge" ]
+    },
+    {
+      "code": "type",
+      "states": [ "fungus", "fruit", "cork" ]
+    }
+  ],
+  "shapeByType": {
+    "*-small-fungus": { "base": "item/resource/hide/{size}1" },
+    "*-medium-fungus": { "base": "item/resource/hide/{size}1" },
+    "*-large-fungus": { "base": "item/resource/hide/{size}1" },
+    "*-huge-fungus": { "base": "item/resource/hide/{size}1" },
+    "*-small-fruit": { "base": "item/resource/hide/{size}2" },
+    "*-medium-fruit": { "base": "item/resource/hide/{size}2" },
+    "*-large-fruit": { "base": "item/resource/hide/{size}2" },
+    "*-huge-fruit": { "base": "item/resource/hide/{size}2" },
+    "*-small-cork": { "base": "item/resource/hide/{size}3" },
+    "*-medium-cork": { "base": "item/resource/hide/{size}3" },
+    "*-large-cork": { "base": "item/resource/hide/{size}3" },
+    "*-huge-cork": { "base": "item/resource/hide/{size}3" }
+  },
+  "texturesByType": {
+    "*-raw-*-fungus": {
+      "material": { "base": "game:block/plant/mushroom/bolete/cap" }
+    },
+    "*-raw-*-fruit": {
+      "material": { "base": "game:block/food/pie/fill-mixedfruit" }
+    },
+    "*-raw-*-cork": {
+      "material": { "base": "game:block/wood/oak" }
+    },
+    "*-prepared-*-fungus": {
+      "material": { "base": "game:block/plant/mushroom/bolete/cap" }
+    },
+    "*-prepared-*-fruit": {
+      "material": { "base": "game:block/food/pie/fill-mixedfruit" }
+    },
+    "*-prepared-*-cork": {
+      "material": { "base": "game:block/wood/oak" }
+    }
+  },
+  "creativeinventory": {
+    "general": [ "*" ],
+    "items": [ "*" ],
+    "botanicalleathers": [ "*" ]
+  },
+  "maxstacksizeByType": {
+    "*-small-*": 64,
+    "*-medium-*": 32,
+    "*-large-*": 16,
+    "*-huge-*": 8
+  },
+  "transitionablePropsByType": {
+    "*-fungus": [
+      {
+        "type": "Perish",
+        "freshHours": { "avg": 96 },
+        "transitionHours": { "avg": 168 },
+        "transitionedStack": {
+          "type": "item",
+          "code": "game:rot"
+        }
+      }
+    ],
+    "*-fruit": [
+      {
+        "type": "Perish",
+        "freshHours": { "avg": 24 },
+        "transitionHours": { "avg": 48 },
+        "transitionedStack": {
+          "type": "item",
+          "code": "game:rot"
+        }
+      }
+    ],
+    "*-cork": [
+      {
+        "type": "Perish",
+        "freshHours": { "avg": 168 },
+        "transitionHours": { "avg": 120 },
+        "transitionedStack": {
+          "type": "item",
+          "code": "game:rot"
+        }
+      }
+    ]
+  },
+  "behaviors": [
+    {
+      "name": "GroundStorable",
+      "properties": {
+        "layout": "SingleCenter",
+        "collisionBox": {
+          "x1": 0,
+          "y1": 0,
+          "z1": 0,
+          "x2": 1,
+          "y2": 0.125,
+          "z2": 1
+        }
+      }
+    }
+  ],
+  "attributes": {
+    "handbook": {
+      "groupBy": [ "botanicalhide-*-*-{type}" ]
+    },
+    "groundable": true,
+    "rackable": true,
+    "toolrackTransformByType": {
+      "*-small-*": {
+        "translation": {
+          "x": -0.5,
+          "y": 0.43,
+          "z": 1
+        },
+        "rotation": {
+          "x": 0,
+          "y": 90,
+          "z": 0
+        },
+        "origin": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "scale": 1.2
+      },
+      "*-medium-*": {
+        "translation": {
+          "x": 0.8,
+          "y": 0.45,
+          "z": 0
+        },
+        "rotation": {
+          "x": 0,
+          "y": -90,
+          "z": 0
+        },
+        "origin": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        }
+      },
+      "*-large-*": {
+
+      },
+      "*-huge-*": {
+
+      }
+    }
+  },
+  "groundTransformByType": {
+    "*-small-*": {
+      "origin": {
+        "x": 0.5,
+        "y": 0,
+        "z": 0.5
+      },
+      "scale": 1.2
+    },
+    "*-medium-*": {
+      "origin": {
+        "x": 0.5,
+        "y": 0,
+        "z": 0.5
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": 4
+    },
+    "*-large-*": {
+      "origin": {
+        "x": 0.5,
+        "y": 0,
+        "z": 0.5
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": 4
+    },
+    "*-huge-*": {
+      "origin": {
+        "x": 0.5,
+        "y": 0,
+        "z": 0.5
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": 4
+    }
+  },
+  "guiTransformByType": {
+    "*-small-*": {
+      "translation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "rotation": {
+        "x": 60,
+        "y": 30,
+        "z": -8
+      },
+      "origin": {
+        "x": 0.45,
+        "y": 0,
+        "z": 0.5
+      },
+      "scale": 1.4
+    },
+    "*-medium-*": {
+      "translation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "rotation": {
+        "x": 60,
+        "y": 30,
+        "z": -8
+      },
+      "origin": {
+        "x": 0.45,
+        "y": 0,
+        "z": 0.5
+      },
+      "scale": 1.25
+    },
+    "*-large-*": {
+      "rotation": {
+        "x": 90,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "origin": {
+        "x": 0.5,
+        "y": 0.5,
+        "z": 0.5
+      },
+      "scale": 1.15
+    },
+    "*-huge-*": {
+      "translation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "rotation": {
+        "x": 52,
+        "y": 16,
+        "z": -6
+      },
+      "origin": {
+        "x": 0.5,
+        "y": -0.25,
+        "z": 0.3
+      },
+      "scale": 0.9
+    }
+  },
+  "tpHandTransformbyType": {
+    "*-small-*": {
+      "translation": {
+        "x": 0.5,
+        "y": 0.25,
+        "z": 0
+      },
+      "rotation": {
+        "x": -90,
+        "y": -1,
+        "z": 0
+      },
+      "origin": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": 1
+    },
+    "*-medium-*": {
+      "translation": {
+        "x": -0.6,
+        "y": -0.5,
+        "z": 0
+      },
+      "rotation": {
+        "x": 1,
+        "y": -93,
+        "z": 90
+      },
+      "origin": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": 1
+    },
+    "*-large-*": {
+      "translation": {
+        "x": -0.1,
+        "y": 0.1,
+        "z": 0
+      },
+      "rotation": {
+        "x": 0,
+        "y": 90,
+        "z": -83
+      },
+      "origin": {
+        "x": 0.5,
+        "y": 0,
+        "z": 0.1
+      },
+      "scale": 1
+    },
+    "*-huge-*": {
+      "translation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "rotation": {
+        "x": 0,
+        "y": 90,
+        "z": -82
+      },
+      "origin": {
+        "x": 0.5,
+        "y": 0,
+        "z": 0.1
+      },
+      "scale": 0.8
+    }
+  },
+  "fpHandTransformByType": {
+    "*-small-*": {
+      "scale": 0.75
+    },
+    "*-medium-*": {
+      "scale": 0.85
+    },
+    "*-large-*": {
+      "scale": 1
+    },
+    "*-huge-*": {
+      "scale": 1.15
+    }
+  }
+}

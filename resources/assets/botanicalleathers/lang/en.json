@@ -1,0 +1,44 @@
+{
+  "game:tabname-botanicalleathers": "Botanical Leathers",
+
+  "item-botanicalhide-raw-small-cork": "Raw Botanicalhide (small, cork)",
+  "item-botanicalhide-raw-medium-cork": "Raw Botanicalhide (medium, cork)",
+  "item-botanicalhide-raw-large-cork": "Raw Botanicalhide (large, cork)",
+  "item-botanicalhide-raw-huge-cork": "Raw Botanicalhide (huge, cork)",
+  "item-botanicalhide-prepared-small-cork": "Prepared Botanicalhide (small, cork)",
+  "item-botanicalhide-prepared-medium-cork": "Prepared Botanicalhide (medium, cork)",
+  "item-botanicalhide-prepared-large-cork": "Prepared Botanicalhide (large, cork)",
+  "item-botanicalhide-prepared-huge-cork": "Prepared Botanicalhide (huge, cork)",
+
+  "item-botanicalhide-raw-small-fruit": "Raw Botanicalhide (small, fruit)",
+  "item-botanicalhide-raw-medium-fruit": "Raw Botanicalhide (medium, fruit)",
+  "item-botanicalhide-raw-large-fruit": "Raw Botanicalhide (large, fruit)",
+  "item-botanicalhide-raw-huge-fruit": "Raw Botanicalhide (huge, fruit)",
+  "item-botanicalhide-prepared-small-fruit": "Prepared Botanicalhide (small, fruit)",
+  "item-botanicalhide-prepared-medium-fruit": "Prepared Botanicalhide (medium, fruit)",
+  "item-botanicalhide-prepared-large-fruit": "Prepared Botanicalhide (large, fruit)",
+  "item-botanicalhide-prepared-huge-fruit": "Prepared Botanicalhide (huge, fruit)",
+
+  "item-botanicalhide-raw-small-fungus": "Raw Botanicalhide (small, mushroom)",
+  "item-botanicalhide-raw-medium-fungus": "Raw Botanicalhide (medium, mushroom)",
+  "item-botanicalhide-raw-large-fungus": "Raw Botanicalhide (large, mushroom)",
+  "item-botanicalhide-raw-huge-fungus": "Raw Botanicalhide (huge, mushroom)",
+  "item-botanicalhide-prepared-small-fungus": "Prepared Botanicalhide (small, mushroom)",
+  "item-botanicalhide-prepared-medium-fungus": "Prepared Botanicalhide (medium, mushroom)",
+  "item-botanicalhide-prepared-large-fungus": "Prepared Botanicalhide (large, mushroom)",
+  "item-botanicalhide-prepared-huge-fungus": "Prepared Botanicalhide (huge, mushroom)",
+
+  "game:item-pressedmash-mushroom-wet": "Wet mushroom mash",
+  "game:item-pressedmash-mushroom-dry": "Dry mushroom mash",
+  "item-soakedmushroom-slop": "Soaked mushroom slop",
+  "item-fungalresidue": "Mushroom residue",
+  "incontainer-item-fungalresidue": "Mushroom residue",
+
+  "botanicalleathers:item-corkmaterial-steamed": "Oak Bark (steamed)",
+  "botanicalleathers:item-corkmaterial-prepared": "Oak Bark (prepared)",
+  "botanicalleathers:item-corkmaterial-raw": "Oak Bark (raw)",
+  "botanicalleathers:item-corkmaterial-sheet": "Cork (sheet)",
+  "botanicalleathers:item-corkmaterial-soaked": "Oak Bark (soaked)",
+
+  "item-hardenedfruitpitch": "Hardened fruit pitch"
+}

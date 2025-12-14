@@ -1,0 +1,86 @@
+[
+  {
+    "ingredientPattern": "H,M",
+    "ingredients": {
+      "M": {
+        "type": "item",
+        "code": "game:pressedmash-mushroom",
+        "quantity": 2
+      },
+      "H": {
+        "type": "item",
+        "code": "game:hammer-*",
+        "isTool": true
+      }
+    },
+    "width": 1,
+    "height": 2,
+    "output": {
+      "type": "item",
+      "code": "botanicalleathers:botanicalhide-prepared-small-fungus"
+    }
+  },
+  {
+    "ingredientPattern": "H,M",
+    "ingredients": {
+      "M": {
+        "type": "item",
+        "code": "game:pressedmash-mushroom",
+        "quantity": 5
+      },
+      "H": {
+        "type": "item",
+        "code": "game:hammer-*",
+        "isTool": true
+      }
+    },
+    "width": 2,
+    "height": 1,
+    "output": {
+      "type": "item",
+      "code": "botanicalleathers:botanicalhide-prepared-medium-fungus"
+    }
+  },
+  {
+    "ingredientPattern": "M,H",
+    "ingredients": {
+      "M": {
+        "type": "item",
+        "code": "game:pressedmash-mushroom",
+        "quantity": 10
+      },
+      "H": {
+        "type": "item",
+        "code": "game:hammer-*",
+        "isTool": true
+      }
+    },
+    "width": 1,
+    "height": 2,
+    "output": {
+      "type": "item",
+      "code": "botanicalleathers:botanicalhide-prepared-large-fungus"
+    }
+  },
+  {
+    "ingredientPattern": "M,H",
+    "ingredients": {
+      "M": {
+        "type": "item",
+        "code": "game:pressedmash-mushroom",
+        "quantity": 20
+      },
+      "H": {
+        "type": "item",
+        "code": "game:hammer-*",
+        "isTool": true
+      }
+    },
+    "width": 2,
+    "height": 1,
+    "output": {
+      "type": "item",
+      "code": "botanicalleathers:botanicalhide-prepared-huge-fungus"
+    }
+  }
+]

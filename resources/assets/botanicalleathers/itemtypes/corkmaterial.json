@@ -1,0 +1,144 @@
+{
+  "code": "corkmaterial",
+  "class": "Item",
+  "variantgroups": [
+    {
+      "code": "type",
+      "states": [ "raw", "soaked", "prepared", "steamed", "sheet" ]
+    }
+  ],
+  "shapeByType": {
+    "*-sheet": {
+      "base": "game:item/plate"
+    },
+    "*": {
+      "base": "game:item/oakbark"
+    }
+  },
+  "texturesByType": {
+    "*-raw": {
+      "bark": { "base": "game:block/wood/bark/oak" }
+    },
+    "*-soaked": {
+      "bark": { "base": "item/corkmaterial/{type}" }
+    },
+    "*-prepared": {
+      "bark": { "base": "item/corkmaterial/{type}" }
+    },
+    "*-steamed": {
+      "bark": { "base": "item/corkmaterial/{type}" }
+    },
+    "*-sheet": {
+      "metal": { "base": "item/corkmaterial/{type}" }
+    }
+  },
+
+  "maxstacksize": 64,
+  "creativeinventory": {
+    "general": [ "*" ],
+    "items": [ "*" ],
+    "botanicalleathers": [ "*" ]
+  },
+  "attributes": {
+    "handbook": {
+      "groupBy": [ "corkmaterial-*" ]
+    },
+    "displaycaseable": true,
+    "shelvable": true
+  },
+  "attributesByType": {
+    "*-prepared": {
+      "combustibleProps": {
+        "meltingPoint": 200,
+        "meltingDuration": 20,
+        "smeltedRatio": 1,
+        "smeltedStack": {
+          "type": "item",
+          "code": "corkmaterial-steamed"
+        },
+        "requiresContainer": false
+      }
+    }
+  },
+  "transitionablePropsByType": {
+    "*-soaked": [
+      {
+        "type": "Dry",
+        "freshHours": { "avg": 0 },
+        "transitionHours": { "avg": 24 },
+        "transitionedStack": {
+          "type": "item",
+          "code": "corkmaterial-prepared"
+        },
+        "transitionRatio": 1.0
+      }
+    ],
+    "*-steamed": [
+      {
+        "type": "Dry",
+        "freshHours": { "avg": 0 },
+        "transitionHours": { "avg": 2 },
+        "transitionedStack": {
+          "type": "item",
+          "code": "corkmaterial-prepared"
+        },
+        "transitionRatio": 1.0
+      }
+    ]
+  },
+  "guiTransformByType": {
+    "*-sheet": {
+      "translation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "rotation": {
+        "x": 101,
+        "y": 37,
+        "z": -140
+      },
+      "origin": {
+        "x": 0.5,
+        "y": 0,
+        "z": 0.5
+      },
+      "scale": 1.65
+    },
+    "*": {
+      "translation": {
+        "x": 5,
+        "y": 5,
+        "z": 0
+      },
+      "scale": 1.45
+    }
+  },
+  "tpHandTransformbyType": {
+    "*-sheet": {
+      "translation": {
+        "x": 0.1,
+        "y": 0,
+        "z": 0
+      },
+      "rotation": {
+        "x": 90,
+        "y": 50,
+        "z": 0
+      },
+      "origin": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      }
+    },
+    "*": {
+      "translation": {
+        "x": 5,
+        "y": 5,
+        "z": 0
+      },
+      "scale": 1.45
+    }
+  }
+}

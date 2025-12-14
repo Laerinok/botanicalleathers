@@ -1,0 +1,17 @@
+{
+  "type": "content",
+  "name": "Botanical Leathers",
+  "modid": "botanicalleathers",
+  "version": "1.0.0",
+
+  "description": "Adds vegetarian alternatives to leather crafting using mushrooms, fruit mash, and bark.",
+  "authors": [ "Laerinok" ],
+
+  "dependencies": {
+    "game": "1.21.5"
+  },
+
+  "side": "universal",
+  "requiredOnClient": true,
+  "requiredOnServer": true
+}

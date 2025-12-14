@@ -1,0 +1,90 @@
+[
+  {
+    "code": "soakedhideborax",
+    "sealHours": 18,
+    "ingredients": [
+      {
+        "type": "item",
+        "code": "game:dilutedboraxportion",
+        "litres": 2,
+        "consumeLitres": 2
+      },
+      {
+        "type": "item",
+        "code": "botanicalleathers:botanicalhide-prepared-small-*",
+        "quantity": 1
+      }
+    ],
+    "output": {
+      "type": "item",
+      "code": "game:hide-soaked-small",
+      "stackSize": 1
+    }
+  },
+  {
+    "code": "soakedhideborax",
+    "sealHours": 18,
+    "ingredients": [
+      {
+        "type": "item",
+        "code": "game:dilutedboraxportion",
+        "litres": 4,
+        "consumeLitres": 4
+      },
+      {
+        "type": "item",
+        "code": "botanicalleathers:botanicalhide-prepared-medium-*",
+        "quantity": 1
+      }
+    ],
+    "output": {
+      "type": "item",
+      "code": "game:hide-soaked-medium",
+      "stackSize": 1
+    }
+  },
+  {
+    "code": "soakedhideborax",
+    "sealHours": 18,
+    "ingredients": [
+      {
+        "type": "item",
+        "code": "game:dilutedboraxportion",
+        "litres": 6,
+        "consumeLitres": 6
+      },
+      {
+        "type": "item",
+        "code": "botanicalleathers:botanicalhide-prepared-large-*",
+        "quantity": 1
+      }
+    ],
+    "output": {
+      "type": "item",
+      "code": "game:hide-soaked-large",
+      "stackSize": 1
+    }
+  },
+  {
+    "code": "soakedhideborax",
+    "sealHours": 18,
+    "ingredients": [
+      {
+        "type": "item",
+        "code": "game:dilutedboraxportion",
+        "litres": 10,
+        "consumeLitres": 10
+      },
+      {
+        "type": "item",
+        "code": "botanicalleathers:botanicalhide-prepared-huge-*",
+        "quantity": 1
+      }
+    ],
+    "output": {
+      "type": "item",
+      "code": "game:hide-soaked-huge",
+      "stackSize": 1
+    }
+  }
+]

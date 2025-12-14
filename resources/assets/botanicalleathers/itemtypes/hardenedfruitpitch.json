@@ -1,0 +1,43 @@
+{
+  "code": "hardenedfruitpitch",
+  "class": "Item",
+  "shape": { "base": "game:item/resource/fat" },
+  "textures": {
+    "fat": { "base": "game:block/food/pie/fill-mixedfruit" }
+  },
+  "creativeinventory": {
+    "general": [ "*" ],
+    "items": [ "*" ],
+    "botanicalleathers": [ "*" ]
+  },
+  "maxstacksize": 64,
+  "transitionableProps": [
+    {
+      "type": "Perish",
+      "freshHours": { "avg": 336 },
+      "transitionHours": { "avg": 24 },
+      "transitionedStack": {
+        "type": "item",
+        "code": "game:rot"
+      }
+    }
+  ],
+  "guiTransform": {
+    "translation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "origin": {
+      "x": 0.5,
+      "y": 0.5,
+      "z": 0.5
+    },
+    "scale": 1.0
+  }
+}

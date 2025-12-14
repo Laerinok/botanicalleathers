@@ -1,0 +1,27 @@
+{
+  "ingredientPattern": "H_,RS",
+  "ingredients": {
+    "H": {
+      "type": "item",
+      "code": "game:hammer-*",
+      "isTool": true
+    },
+    "S": {
+      "type": "item",
+      "code": "corkmaterial-steamed",
+      "quantity": 8
+    },
+    "R": {
+      "type": "item",
+      "code": "game:resin",
+      "quantity": 1
+    }
+  },
+  "width": 2,
+  "height": 2,
+  "output": {
+    "type": "item",
+    "code": "corkmaterial-sheet",
+    "quantity": 1
+  }
+}

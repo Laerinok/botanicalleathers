@@ -1,0 +1,60 @@
+[
+  {
+    "op": "addmerge",
+    "path": "/variantgroups/0/states/-",
+    "value": "mushroom",
+    "file": "game:itemtypes/resource/pressedmash.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/textures/material/byType",
+    "value": {
+      "*-mushroom": { "base": "game:block/plant/mushroom/bolete/cap" }
+    },
+    "file": "game:itemtypes/resource/pressedmash.json"
+  },
+  {
+    "op": "replace",
+    "path": "/attributes/juiceablePropertiesByType",
+    "value": {
+      "@*-(pinkapple|redapple|yellowapple)": {
+        "liquidStack": {
+          "type": "item",
+          "code": "juiceportion-apple",
+          "stacksize": 1
+        },
+        "pressedStack": {
+          "type": "item",
+          "code": "pressedmash-apple",
+          "stacksize": 1
+        }
+      },
+      "*-olive": null,
+      "*-mushroom": {
+        "liquidStack": {
+          "type": "item",
+          "code": "botanicalleathers:fungalresidue",
+          "stacksize": 1
+        },
+        "pressedStack": {
+          "type": "item",
+          "code": "game:pressedmash-mushroom",
+          "stacksize": 1
+        }
+      },
+      "*": {
+        "liquidStack": {
+          "type": "item",
+          "code": "juiceportion-{fruit}",
+          "stacksize": 1
+        },
+        "pressedStack": {
+          "type": "item",
+          "code": "pressedmash-{fruit}",
+          "stacksize": 1
+        }
+      }
+    },
+    "file": "game:itemtypes/resource/pressedmash.json"
+  }
+]

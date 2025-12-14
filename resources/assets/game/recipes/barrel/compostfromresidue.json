@@ -1,0 +1,16 @@
+{
+  "code": "mushroomcompost",
+  "sealHours": 240,
+  "ingredients": [
+    {
+      "type": "item",
+      "code": "botanicalleathers:fungalresidue",
+      "litres": 10
+    }
+  ],
+  "output": {
+    "type": "item",
+    "code": "game:compost",
+    "stackSize": 1
+  }
+}

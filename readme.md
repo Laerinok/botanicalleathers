@@ -1,5 +1,3 @@
----
-
 # 🌿 Botanical Leathers: The Art of Vegetable Tanning
 
 **From petal to pelt. Thrive without the hunt.**

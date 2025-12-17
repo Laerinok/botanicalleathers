@@ -3,7 +3,7 @@
   <PropertyGroup>
     <ModName>Botanical Leathers</ModName>
     <ModType>content</ModType>
-    <ModVersion>1.0.0</ModVersion>
+    <ModVersion>1.1.0</ModVersion>
     <ModId>botanicalleathers</ModId>
     <Description>Adds vegetarian alternatives to leather crafting using mushrooms, fruit mash, and bark.</Description>
     <Side>universal</Side>

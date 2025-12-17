@@ -1,0 +1,21 @@
+{
+  "code": "soakcork",
+  "sealHours": 72,
+  "ingredients": [
+    {
+      "type": "item",
+      "code": "game:waterportion",
+      "litres": 2
+    },
+    {
+      "type": "item",
+      "code": "aculinaryartillery:bark-oak-dry",
+      "quantity": 1
+    }
+  ],
+  "output": {
+    "type": "item",
+    "code": "botanicalleathers:corkmaterial-soaked",
+    "stackSize": 1
+  }
+}

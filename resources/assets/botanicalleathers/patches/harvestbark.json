@@ -1,29 +1,31 @@
 [
   {
-    "condition": {
-      "modid": "aculinaryartillery",
-      "invert": true
-    },
     "file": "game:recipes/grid/debarkedlog.json",
     "op": "replace",
     "path": "/0/ingredients/L/code",
-    "value": "log-placed-oak-ud"
+    "value": "log-placed-oak-ud",
+    "side": "Server",
+    "dependsOn": [
+      {
+        "modid": "aculinaryartillery",
+        "invert": true
+      }
+    ]
   },
   {
-    "condition": {
-      "modid": "aculinaryartillery",
-      "invert": true
-    },
     "file": "game:recipes/grid/debarkedlog.json",
     "op": "replace",
     "path": "/0/output/code",
-    "value": "debarkedlog-oak-ud"
+    "value": "debarkedlog-oak-ud",
+    "side": "Server",
+    "dependsOn": [
+      {
+        "modid": "aculinaryartillery",
+        "invert": true
+      }
+    ]
   },
   {
-    "condition": {
-      "modid": "aculinaryartillery",
-      "invert": true
-    },
     "file": "game:recipes/grid/debarkedlog.json",
     "op": "addmerge",
     "path": "/0/ingredients/L/returnedStack",
@@ -31,13 +33,16 @@
       "type": "item",
       "code": "botanicalleathers:corkmaterial-raw",
       "quantity": 4
-    }
+    },
+    "side": "Server",
+    "dependsOn": [
+      {
+        "modid": "aculinaryartillery",
+        "invert": true
+      }
+    ]
   },
   {
-    "condition": {
-      "modid": "aculinaryartillery",
-      "invert": true
-    },
     "file": "game:recipes/grid/debarkedlog.json",
     "op": "add",
     "path": "/-",
@@ -68,6 +73,13 @@
         "code": "debarkedlog-{wood}-ud",
         "quantity": 1
       }
-    }
+    },
+    "side": "Server",
+    "dependsOn": [
+      {
+        "modid": "aculinaryartillery",
+        "invert": true
+      }
+    ]
   }
 ]

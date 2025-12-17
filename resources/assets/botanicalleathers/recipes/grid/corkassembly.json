@@ -1,5 +1,6 @@
 [
   {
+    "code": "corkassembly-small",
     "ingredientPattern": "K,S",
     "ingredients": {
       "K": {
@@ -20,6 +21,7 @@
     }
   },
   {
+    "code": "corkassembly-medium",
     "ingredientPattern": "S,R,S",
     "ingredients": {
       "S": {
@@ -39,6 +41,7 @@
     }
   },
   {
+    "code": "corkassembly-large",
     "ingredientPattern": "SS,RR,SS",
     "ingredients": {
       "S": {
@@ -58,6 +61,7 @@
     }
   },
   {
+    "code": "corkassembly-huge",
     "ingredientPattern": "SSS,RLR,SSS",
     "ingredients": {
       "L": {

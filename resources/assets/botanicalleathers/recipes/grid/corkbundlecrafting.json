@@ -1,5 +1,6 @@
 [
   {
+    "code": "corkbundle-assemble",
     "ingredientPattern": "C",
     "ingredients": {
       "C": {
@@ -16,6 +17,7 @@
     }
   },
   {
+    "code": "corkbundle-strip",
     "ingredientPattern": "B",
     "ingredients": {
       "B": {

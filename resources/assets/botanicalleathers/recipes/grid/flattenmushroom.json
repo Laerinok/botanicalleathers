@@ -1,5 +1,6 @@
 [
   {
+    "code": "flatten-mushroom-small",
     "ingredientPattern": "H,M",
     "ingredients": {
       "M": {
@@ -21,6 +22,7 @@
     }
   },
   {
+    "code": "flatten-mushroom-medium",
     "ingredientPattern": "H,M",
     "ingredients": {
       "M": {
@@ -42,6 +44,7 @@
     }
   },
   {
+    "code": "flatten-mushroom-large",
     "ingredientPattern": "M,H",
     "ingredients": {
       "M": {
@@ -63,6 +66,7 @@
     }
   },
   {
+    "code": "flatten-mushroom-huge",
     "ingredientPattern": "M,H",
     "ingredients": {
       "M": {

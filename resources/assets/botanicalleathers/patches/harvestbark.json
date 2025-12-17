@@ -1,17 +1,29 @@
 [
   {
+    "condition": {
+      "modid": "aculinaryartillery",
+      "invert": true
+    },
     "file": "game:recipes/grid/debarkedlog.json",
     "op": "replace",
     "path": "/0/ingredients/L/code",
     "value": "log-placed-oak-ud"
   },
   {
+    "condition": {
+      "modid": "aculinaryartillery",
+      "invert": true
+    },
     "file": "game:recipes/grid/debarkedlog.json",
     "op": "replace",
     "path": "/0/output/code",
     "value": "debarkedlog-oak-ud"
   },
   {
+    "condition": {
+      "modid": "aculinaryartillery",
+      "invert": true
+    },
     "file": "game:recipes/grid/debarkedlog.json",
     "op": "addmerge",
     "path": "/0/ingredients/L/returnedStack",
@@ -22,6 +34,10 @@
     }
   },
   {
+    "condition": {
+      "modid": "aculinaryartillery",
+      "invert": true
+    },
     "file": "game:recipes/grid/debarkedlog.json",
     "op": "add",
     "path": "/-",

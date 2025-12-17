@@ -1,0 +1,25 @@
+{
+  "code": "corkfromaca",
+  "ingredients": {
+    "K": {
+      "type": "item",
+      "code": "game:knife-*",
+      "isTool": true
+    },
+    "B": {
+      "type": "item",
+      "code": "aculinaryartillery:bark-oak-*"
+    }
+  },
+  "width": 1,
+  "height": 2,
+  "shapeless": true,
+  "output": {
+    "type": "item",
+    "code": "botanicalleathers:corkmaterial-raw",
+    "quantity": 4
+  },
+  "dependsOn": [
+    { "modid": "aculinaryartillery" }
+  ]
+}

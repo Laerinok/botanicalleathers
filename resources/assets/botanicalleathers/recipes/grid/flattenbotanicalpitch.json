@@ -1,5 +1,6 @@
 [
   {
+    "code": "flatten-pitch-apple-small",
     "comment": "Small Hide - Apple (Hot)",
     "ingredientPattern": "PH",
     "recipeGroup": 1,
@@ -38,6 +39,7 @@
     }
   },
   {
+    "code": "flatten-pitch-mango-small",
     "comment": "Small Hide - Mango (Hot)",
     "ingredientPattern": "PH",
     "recipeGroup": 1,
@@ -76,6 +78,7 @@
     }
   },
   {
+    "code": "flatten-pitch-pineappleleaf-small",
     "comment": "Small Hide - Pineapple (Hot) [FIXED]",
     "ingredientPattern": "PH",
     "recipeGroup": 1,
@@ -114,6 +117,7 @@
     }
   },
   {
+    "code": "flatten-pitch-cactusfiber-small",
     "comment": "Small Hide - Cactus (Hot) [ADDED]",
     "ingredientPattern": "PH",
     "recipeGroup": 1,
@@ -152,6 +156,7 @@
     }
   },
   {
+    "code": "flatten-pitch-apple-medium",
     "comment": "Medium Hide - Apple (Hot)",
     "ingredientPattern": "PP,H_",
     "recipeGroup": 2,
@@ -190,6 +195,7 @@
     }
   },
   {
+    "code": "flatten-pitch-mango-medium",
     "comment": "Medium Hide - Mango (Hot)",
     "ingredientPattern": "PP,H_",
     "recipeGroup": 2,
@@ -228,6 +234,7 @@
     }
   },
   {
+    "code": "flatten-pitch-pineappleleaf-medium",
     "comment": "Medium Hide - Pineapple (Hot) [FIXED]",
     "ingredientPattern": "PP,H_",
     "recipeGroup": 2,
@@ -266,6 +273,7 @@
     }
   },
   {
+    "code": "flatten-pitch-cactusfiber-medium",
     "comment": "Medium Hide - Cactus (Hot) [ADDED]",
     "ingredientPattern": "PP,H_",
     "recipeGroup": 2,
@@ -304,6 +312,7 @@
     }
   },
   {
+    "code": "flatten-pitch-apple-large",
     "comment": "Large Hide - Apple (Hot)",
     "ingredientPattern": "PP,PP,H_",
     "recipeGroup": 3,
@@ -342,6 +351,7 @@
     }
   },
   {
+    "code": "flatten-pitch-mango-large",
     "comment": "Large Hide - Mango (Hot)",
     "ingredientPattern": "PP,PP,H_",
     "recipeGroup": 3,
@@ -380,6 +390,7 @@
     }
   },
   {
+    "code": "flatten-pitch-pineappleleaf-large",
     "comment": "Large Hide - Pineapple (Hot) [FIXED]",
     "ingredientPattern": "PP,PP,H_",
     "recipeGroup": 3,
@@ -418,6 +429,7 @@
     }
   },
   {
+    "code": "flatten-pitch-cactusfiber-large",
     "comment": "Large Hide - Cactus (Hot) [ADDED]",
     "ingredientPattern": "PP,PP,H_",
     "recipeGroup": 3,
@@ -456,6 +468,7 @@
     }
   },
   {
+    "code": "flatten-pitch-apple-huge",
     "comment": "Huge Hide - Apple (Hot)",
     "ingredientPattern": "PPP,PPP,H__",
     "recipeGroup": 4,
@@ -494,6 +507,7 @@
     }
   },
   {
+    "code": "flatten-pitch-mango-huge",
     "comment": "Huge Hide - Mango (Hot)",
     "ingredientPattern": "PPP,PPP,H__",
     "recipeGroup": 4,
@@ -532,6 +546,7 @@
     }
   },
   {
+    "code": "flatten-pitch-pineappleleaf-huge",
     "comment": "Huge Hide - Pineapple (Hot) [FIXED]",
     "ingredientPattern": "PPP,PPP,H__",
     "recipeGroup": 4,
@@ -570,6 +585,7 @@
     }
   },
   {
+    "code": "flatten-pitch-cactusfiber-huge",
     "comment": "Huge Hide - Cactus (Hot) [ADDED]",
     "ingredientPattern": "PPP,PPP,H__",
     "recipeGroup": 4,

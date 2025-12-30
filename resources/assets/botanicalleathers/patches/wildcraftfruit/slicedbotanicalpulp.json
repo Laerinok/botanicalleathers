@@ -1,0 +1,277 @@
+[
+  {
+    "file": "botanicalleathers:itemtypes/slicedbotanicalpulp.json",
+    "dependsOn": [
+      {
+        "modid": "wildcraftfruit"
+      }
+    ],
+    "op": "addmerge",
+    "path": "/variantgroups/0/states/-",
+    "value": "quince"
+  },
+  {
+    "file": "botanicalleathers:itemtypes/slicedbotanicalpulp.json",
+    "dependsOn": [
+      {
+        "modid": "wildcraftfruit"
+      }
+    ],
+    "op": "addmerge",
+    "path": "/texturesByType/*-quince",
+    "value": {
+      "pineapple": { "base": "wildcraftfruit:block/food/pie/fill-quince" }
+    }
+  },
+  {
+    "file": "botanicalleathers:itemtypes/slicedbotanicalpulp.json",
+    "dependsOn": [
+      {
+        "modid": "wildcraftfruit"
+      }
+    ],
+    "op": "addmerge",
+    "path": "/variantgroups/0/states/-",
+    "value": "jackfruit"
+  },
+  {
+    "file": "botanicalleathers:itemtypes/slicedbotanicalpulp.json",
+    "dependsOn": [
+      {
+        "modid": "wildcraftfruit"
+      }
+    ],
+    "op": "addmerge",
+    "path": "/texturesByType/*-jackfruit",
+    "value": {
+      "pineapple": { "base": "wildcraftfruit:block/food/pie/fill-jackfruit" }
+    }
+  },
+  {
+    "file": "botanicalleathers:itemtypes/slicedbotanicalpulp.json",
+    "dependsOn": [
+      {
+        "modid": "wildcraftfruit"
+      }
+    ],
+    "op": "addmerge",
+    "path": "/variantgroups/0/states/-",
+    "value": "pandanbits"
+  },
+  {
+    "file": "botanicalleathers:itemtypes/slicedbotanicalpulp.json",
+    "dependsOn": [
+      {
+        "modid": "wildcraftfruit"
+      }
+    ],
+    "op": "addmerge",
+    "path": "/texturesByType/*-pandanbits",
+    "value": {
+      "pineapple": { "base": "wildcraftfruit:block/food/pie/fill-pandanbits" }
+    }
+  },
+  {
+    "file": "botanicalleathers:itemtypes/slicedbotanicalpulp.json",
+    "dependsOn": [
+      {
+        "modid": "wildcraftfruit"
+      }
+    ],
+    "op": "addmerge",
+    "path": "/variantgroups/0/states/-",
+    "value": "grapefruit"
+  },
+  {
+    "file": "botanicalleathers:itemtypes/slicedbotanicalpulp.json",
+    "dependsOn": [
+      {
+        "modid": "wildcraftfruit"
+      }
+    ],
+    "op": "addmerge",
+    "path": "/texturesByType/*-grapefruit",
+    "value": {
+      "pineapple": { "base": "wildcraftfruit:block/food/pie/fill-grapefruit" }
+    }
+  },
+  {
+    "file": "botanicalleathers:itemtypes/slicedbotanicalpulp.json",
+    "dependsOn": [
+      {
+        "modid": "wildcraftfruit"
+      }
+    ],
+    "op": "addmerge",
+    "path": "/variantgroups/0/states/-",
+    "value": "blackgrape"
+  },
+  {
+    "file": "botanicalleathers:itemtypes/slicedbotanicalpulp.json",
+    "dependsOn": [
+      {
+        "modid": "wildcraftfruit"
+      }
+    ],
+    "op": "addmerge",
+    "path": "/texturesByType/*-blackgrape",
+    "value": {
+      "pineapple": { "base": "wildcraftfruit:block/food/pie/fill-blackgrape" }
+    }
+  },
+  {
+    "file": "botanicalleathers:itemtypes/slicedbotanicalpulp.json",
+    "dependsOn": [
+      {
+        "modid": "wildcraftfruit"
+      }
+    ],
+    "op": "addmerge",
+    "path": "/variantgroups/0/states/-",
+    "value": "redgrape"
+  },
+  {
+    "file": "botanicalleathers:itemtypes/slicedbotanicalpulp.json",
+    "dependsOn": [
+      {
+        "modid": "wildcraftfruit"
+      }
+    ],
+    "op": "addmerge",
+    "path": "/texturesByType/*-redgrape",
+    "value": {
+      "pineapple": { "base": "wildcraftfruit:block/food/pie/fill-redgrape" }
+    }
+  },
+  {
+    "file": "botanicalleathers:itemtypes/slicedbotanicalpulp.json",
+    "dependsOn": [
+      {
+        "modid": "wildcraftfruit"
+      }
+    ],
+    "op": "addmerge",
+    "path": "/variantgroups/0/states/-",
+    "value": "whitegrape"
+  },
+  {
+    "file": "botanicalleathers:itemtypes/slicedbotanicalpulp.json",
+    "dependsOn": [
+      {
+        "modid": "wildcraftfruit"
+      }
+    ],
+    "op": "addmerge",
+    "path": "/texturesByType/*-whitegrape",
+    "value": {
+      "pineapple": { "base": "wildcraftfruit:block/food/pie/fill-whitegrape" }
+    }
+  },
+  {
+    "file": "botanicalleathers:itemtypes/slicedbotanicalpulp.json",
+    "dependsOn": [
+      {
+        "modid": "wildcraftfruit"
+      }
+    ],
+    "op": "addmerge",
+    "path": "/variantgroups/0/states/-",
+    "value": "foxgrape"
+  },
+  {
+    "file": "botanicalleathers:itemtypes/slicedbotanicalpulp.json",
+    "dependsOn": [
+      {
+        "modid": "wildcraftfruit"
+      }
+    ],
+    "op": "addmerge",
+    "path": "/texturesByType/*-foxgrape",
+    "value": {
+      "pineapple": { "base": "wildcraftfruit:block/food/pie/fill-foxgrape" }
+    }
+  },
+  {
+    "file": "botanicalleathers:itemtypes/slicedbotanicalpulp.json",
+    "dependsOn": [
+      {
+        "modid": "wildcraftfruit"
+      }
+    ],
+    "op": "addmerge",
+    "path": "/variantgroups/0/states/-",
+    "value": "virgingrape"
+  },
+  {
+    "file": "botanicalleathers:itemtypes/slicedbotanicalpulp.json",
+    "dependsOn": [
+      {
+        "modid": "wildcraftfruit"
+      }
+    ],
+    "op": "addmerge",
+    "path": "/texturesByType/*-virgingrape",
+    "value": {
+      "pineapple": { "base": "wildcraftfruit:block/food/pie/fill-virgingrape" }
+    }
+  },
+  {
+    "file": "botanicalleathers:itemtypes/slicedbotanicalpulp.json",
+    "dependsOn": [ { "modid": "wildcraftfruit" } ],
+    "op": "addmerge",
+    "path": "/variantgroups/0/states/-",
+    "value": "lemonaspen"
+  },
+  {
+    "file": "botanicalleathers:itemtypes/slicedbotanicalpulp.json",
+    "dependsOn": [ { "modid": "wildcraftfruit" } ],
+    "op": "addmerge",
+    "path": "/texturesByType/*-lemonaspen",
+    "value": { "pineapple": { "base": "wildcraftfruit:block/food/pie/fill-lemonaspen" } }
+  },
+
+  {
+    "file": "botanicalleathers:itemtypes/slicedbotanicalpulp.json",
+    "dependsOn": [ { "modid": "wildcraftfruit" } ],
+    "op": "addmerge",
+    "path": "/variantgroups/0/states/-",
+    "value": "lime"
+  },
+  {
+    "file": "botanicalleathers:itemtypes/slicedbotanicalpulp.json",
+    "dependsOn": [ { "modid": "wildcraftfruit" } ],
+    "op": "addmerge",
+    "path": "/texturesByType/*-lime",
+    "value": { "pineapple": { "base": "wildcraftfruit:block/food/pie/fill-lime" } }
+  },
+
+  {
+    "file": "botanicalleathers:itemtypes/slicedbotanicalpulp.json",
+    "dependsOn": [ { "modid": "wildcraftfruit" } ],
+    "op": "addmerge",
+    "path": "/variantgroups/0/states/-",
+    "value": "citron"
+  },
+  {
+    "file": "botanicalleathers:itemtypes/slicedbotanicalpulp.json",
+    "dependsOn": [ { "modid": "wildcraftfruit" } ],
+    "op": "addmerge",
+    "path": "/texturesByType/*-citron",
+    "value": { "pineapple": { "base": "wildcraftfruit:block/food/pie/fill-citron" } }
+  },
+
+  {
+    "file": "botanicalleathers:itemtypes/slicedbotanicalpulp.json",
+    "dependsOn": [ { "modid": "wildcraftfruit" } ],
+    "op": "addmerge",
+    "path": "/variantgroups/0/states/-",
+    "value": "pomelo"
+  },
+  {
+    "file": "botanicalleathers:itemtypes/slicedbotanicalpulp.json",
+    "dependsOn": [ { "modid": "wildcraftfruit" } ],
+    "op": "addmerge",
+    "path": "/texturesByType/*-pomelo",
+    "value": { "pineapple": { "base": "wildcraftfruit:block/food/pie/fill-pomelo" } }
+  }
+]

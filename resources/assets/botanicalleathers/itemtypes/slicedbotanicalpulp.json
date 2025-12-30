@@ -9,7 +9,7 @@
   "variantgroups": [
     {
       "code": "type",
-      "states": [ "apple", "mango", "pineappleleaf", "cactusfiber" ]
+      "states": [ "apple", "mango", "pineappleleaf", "cactusfiber", "orange" ]
     }
   ],
   "maxstacksize": 64,
@@ -26,6 +26,9 @@
     },
     "*-cactusfiber": {
       "pineapple": { "base": "game:block/plant/crop/pineapple/bark3" }
+    },
+    "*-orange": {
+      "pineapple": { "base": "game:block/food/pie/fill-orange" }
     }
   },
   "attributes": {

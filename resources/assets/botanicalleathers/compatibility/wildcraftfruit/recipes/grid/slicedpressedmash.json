@@ -1,0 +1,301 @@
+[
+  {
+    "code": "WCFslicedbotanicalpulp-quince",
+    "ingredientPattern": "I,T",
+    "ingredients": {
+      "I": {
+        "type": "item",
+        "code": "wildcraftfruit:pressedmash-quince"
+      },
+      "T": {
+        "type": "item",
+        "code": "game:knife-*",
+        "isTool": true
+      }
+    },
+    "shapeless": true,
+    "width": 1,
+    "height": 2,
+    "output": {
+      "type": "item",
+      "code": "botanicalleathers:slicedbotanicalpulp-quince",
+      "stacksize": 1
+    }
+  },
+  {
+    "code": "WCFslicedbotanicalpulp-jackfruit",
+    "ingredientPattern": "I,T",
+    "ingredients": {
+      "I": {
+        "type": "item",
+        "code": "wildcraftfruit:pressedmash-jackfruit"
+      },
+      "T": {
+        "type": "item",
+        "code": "game:knife-*",
+        "isTool": true
+      }
+    },
+    "shapeless": true,
+    "width": 1,
+    "height": 2,
+    "output": {
+      "type": "item",
+      "code": "botanicalleathers:slicedbotanicalpulp-jackfruit",
+      "stacksize": 1
+    }
+  },
+  {
+    "code": "WCFslicedbotanicalpulp-pandanbits",
+    "ingredientPattern": "I,T",
+    "ingredients": {
+      "I": {
+        "type": "item",
+        "code": "wildcraftfruit:pressedmash-pandanbits"
+      },
+      "T": {
+        "type": "item",
+        "code": "game:knife-*",
+        "isTool": true
+      }
+    },
+    "shapeless": true,
+    "width": 1,
+    "height": 2,
+    "output": {
+      "type": "item",
+      "code": "botanicalleathers:slicedbotanicalpulp-pandanbits",
+      "stacksize": 1
+    }
+  },
+  {
+    "code": "WCFslicedbotanicalpulp-grapefruit",
+    "ingredientPattern": "I,T",
+    "ingredients": {
+      "I": {
+        "type": "item",
+        "code": "wildcraftfruit:pressedmash-grapefruit"
+      },
+      "T": {
+        "type": "item",
+        "code": "game:knife-*",
+        "isTool": true
+      }
+    },
+    "shapeless": true,
+    "width": 1,
+    "height": 2,
+    "output": {
+      "type": "item",
+      "code": "botanicalleathers:slicedbotanicalpulp-grapefruit",
+      "stacksize": 1
+    }
+  },
+  {
+    "code": "WCFslicedbotanicalpulp-blackgrape",
+    "ingredientPattern": "I,T",
+    "ingredients": {
+      "I": {
+        "type": "item",
+        "code": "wildcraftfruit:pressedmash-blackgrape"
+      },
+      "T": {
+        "type": "item",
+        "code": "game:knife-*",
+        "isTool": true
+      }
+    },
+    "shapeless": true,
+    "width": 1,
+    "height": 2,
+    "output": {
+      "type": "item",
+      "code": "botanicalleathers:slicedbotanicalpulp-blackgrape",
+      "stacksize": 1
+    }
+  },
+  {
+    "code": "WCFslicedbotanicalpulp-redgrape",
+    "ingredientPattern": "I,T",
+    "ingredients": {
+      "I": {
+        "type": "item",
+        "code": "wildcraftfruit:pressedmash-redgrape"
+      },
+      "T": {
+        "type": "item",
+        "code": "game:knife-*",
+        "isTool": true
+      }
+    },
+    "shapeless": true,
+    "width": 1,
+    "height": 2,
+    "output": {
+      "type": "item",
+      "code": "botanicalleathers:slicedbotanicalpulp-redgrape",
+      "stacksize": 1
+    }
+  },
+  {
+    "code": "WCFslicedbotanicalpulp-whitegrape",
+    "ingredientPattern": "I,T",
+    "ingredients": {
+      "I": {
+        "type": "item",
+        "code": "wildcraftfruit:pressedmash-whitegrape"
+      },
+      "T": {
+        "type": "item",
+        "code": "game:knife-*",
+        "isTool": true
+      }
+    },
+    "shapeless": true,
+    "width": 1,
+    "height": 2,
+    "output": {
+      "type": "item",
+      "code": "botanicalleathers:slicedbotanicalpulp-whitegrape",
+      "stacksize": 1
+    }
+  },
+  {
+    "code": "WCFslicedbotanicalpulp-foxgrape",
+    "ingredientPattern": "I,T",
+    "ingredients": {
+      "I": {
+        "type": "item",
+        "code": "wildcraftfruit:pressedmash-foxgrape"
+      },
+      "T": {
+        "type": "item",
+        "code": "game:knife-*",
+        "isTool": true
+      }
+    },
+    "shapeless": true,
+    "width": 1,
+    "height": 2,
+    "output": {
+      "type": "item",
+      "code": "botanicalleathers:slicedbotanicalpulp-foxgrape",
+      "stacksize": 1
+    }
+  },
+  {
+    "code": "WCFslicedbotanicalpulp-virgingrape",
+    "ingredientPattern": "I,T",
+    "ingredients": {
+      "I": {
+        "type": "item",
+        "code": "wildcraftfruit:pressedmash-virgingrape"
+      },
+      "T": {
+        "type": "item",
+        "code": "game:knife-*",
+        "isTool": true
+      }
+    },
+    "shapeless": true,
+    "width": 1,
+    "height": 2,
+    "output": {
+      "type": "item",
+      "code": "botanicalleathers:slicedbotanicalpulp-virgingrape",
+      "stacksize": 1
+    }
+  },
+  {
+    "code": "WCFslicedbotanicalpulp-lemonaspen",
+    "ingredientPattern": "I,T",
+    "ingredients": {
+      "I": {
+        "type": "item",
+        "code": "wildcraftfruit:pressedmash-lemonaspen"
+      },
+      "T": {
+        "type": "item",
+        "code": "game:knife-*",
+        "isTool": true
+      }
+    },
+    "shapeless": true,
+    "width": 1,
+    "height": 2,
+    "output": {
+      "type": "item",
+      "code": "botanicalleathers:slicedbotanicalpulp-lemonaspen",
+      "stacksize": 1
+    }
+  },
+  {
+    "code": "WCFslicedbotanicalpulp-lime",
+    "ingredientPattern": "I,T",
+    "ingredients": {
+      "I": {
+        "type": "item",
+        "code": "wildcraftfruit:pressedmash-lime"
+      },
+      "T": {
+        "type": "item",
+        "code": "game:knife-*",
+        "isTool": true
+      }
+    },
+    "shapeless": true,
+    "width": 1,
+    "height": 2,
+    "output": {
+      "type": "item",
+      "code": "botanicalleathers:slicedbotanicalpulp-lime",
+      "stacksize": 1
+    }
+  },
+  {
+    "code": "WCFslicedbotanicalpulp-citron",
+    "ingredientPattern": "I,T",
+    "ingredients": {
+      "I": {
+        "type": "item",
+        "code": "wildcraftfruit:pressedmash-citron"
+      },
+      "T": {
+        "type": "item",
+        "code": "game:knife-*",
+        "isTool": true
+      }
+    },
+    "shapeless": true,
+    "width": 1,
+    "height": 2,
+    "output": {
+      "type": "item",
+      "code": "botanicalleathers:slicedbotanicalpulp-citron",
+      "stacksize": 1
+    }
+  },
+  {
+    "code": "WCFslicedbotanicalpulp-pomelo",
+    "ingredientPattern": "I,T",
+    "ingredients": {
+      "I": {
+        "type": "item",
+        "code": "wildcraftfruit:pressedmash-pomelo"
+      },
+      "T": {
+        "type": "item",
+        "code": "game:knife-*",
+        "isTool": true
+      }
+    },
+    "shapeless": true,
+    "width": 1,
+    "height": 2,
+    "output": {
+      "type": "item",
+      "code": "botanicalleathers:slicedbotanicalpulp-pomelo",
+      "stacksize": 1
+    }
+  }
+]

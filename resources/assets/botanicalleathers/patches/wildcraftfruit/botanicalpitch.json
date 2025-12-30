@@ -1,0 +1,145 @@
+[
+  {
+    "file": "botanicalleathers:itemtypes/liquid/botanicalpitch.json",
+    "dependsOn": [
+      {
+        "modid": "wildcraftfruit"
+      }
+    ],
+    "op": "addmerge",
+    "path": "/variantgroups/0/states/-",
+    "value": "quince"
+  },
+  {
+    "file": "botanicalleathers:itemtypes/liquid/botanicalpitch.json",
+    "dependsOn": [
+      {
+        "modid": "wildcraftfruit"
+      }
+    ],
+    "op": "addmerge",
+    "path": "/variantgroups/0/states/-",
+    "value": "jackfruit"
+  },
+  {
+    "file": "botanicalleathers:itemtypes/liquid/botanicalpitch.json",
+    "dependsOn": [
+      {
+        "modid": "wildcraftfruit"
+      }
+    ],
+    "op": "addmerge",
+    "path": "/variantgroups/0/states/-",
+    "value": "pandanbits"
+  },
+  {
+    "file": "botanicalleathers:itemtypes/liquid/botanicalpitch.json",
+    "dependsOn": [
+      {
+        "modid": "wildcraftfruit"
+      }
+    ],
+    "op": "addmerge",
+    "path": "/variantgroups/0/states/-",
+    "value": "grapefruit"
+  },
+  {
+    "file": "botanicalleathers:itemtypes/liquid/botanicalpitch.json",
+    "dependsOn": [
+      {
+        "modid": "wildcraftfruit"
+      }
+    ],
+    "op": "addmerge",
+    "path": "/variantgroups/0/states/-",
+    "value": "blackgrape"
+  },
+  {
+    "file": "botanicalleathers:itemtypes/liquid/botanicalpitch.json",
+    "dependsOn": [
+      {
+        "modid": "wildcraftfruit"
+      }
+    ],
+    "op": "addmerge",
+    "path": "/variantgroups/0/states/-",
+    "value": "redgrape"
+  },
+  {
+    "file": "botanicalleathers:itemtypes/liquid/botanicalpitch.json",
+    "dependsOn": [
+      {
+        "modid": "wildcraftfruit"
+      }
+    ],
+    "op": "addmerge",
+    "path": "/variantgroups/0/states/-",
+    "value": "whitegrape"
+  },
+  {
+    "file": "botanicalleathers:itemtypes/liquid/botanicalpitch.json",
+    "dependsOn": [
+      {
+        "modid": "wildcraftfruit"
+      }
+    ],
+    "op": "addmerge",
+    "path": "/variantgroups/0/states/-",
+    "value": "foxgrape"
+  },
+  {
+    "file": "botanicalleathers:itemtypes/liquid/botanicalpitch.json",
+    "dependsOn": [
+      {
+        "modid": "wildcraftfruit"
+      }
+    ],
+    "op": "addmerge",
+    "path": "/variantgroups/0/states/-",
+    "value": "virgingrape"
+  },
+  {
+    "file": "botanicalleathers:itemtypes/liquid/botanicalpitch.json",
+    "dependsOn": [
+      {
+        "modid": "wildcraftfruit"
+      }
+    ],
+    "op": "addmerge",
+    "path": "/variantgroups/0/states/-",
+    "value": "lemonaspen"
+  },
+  {
+    "file": "botanicalleathers:itemtypes/liquid/botanicalpitch.json",
+    "dependsOn": [
+      {
+        "modid": "wildcraftfruit"
+      }
+    ],
+    "op": "addmerge",
+    "path": "/variantgroups/0/states/-",
+    "value": "lime"
+  },
+  {
+    "file": "botanicalleathers:itemtypes/liquid/botanicalpitch.json",
+    "dependsOn": [
+      {
+        "modid": "wildcraftfruit"
+      }
+    ],
+    "op": "addmerge",
+    "path": "/variantgroups/0/states/-",
+    "value": "citron"
+  },
+  {
+    "file": "botanicalleathers:itemtypes/liquid/botanicalpitch.json",
+    "dependsOn": [
+      {
+        "modid": "wildcraftfruit"
+      }
+    ],
+    "op": "addmerge",
+    "path": "/variantgroups/0/states/-",
+    "value": "pomelo"
+  }
+]

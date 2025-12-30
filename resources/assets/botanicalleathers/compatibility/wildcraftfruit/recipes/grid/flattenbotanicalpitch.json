@@ -1,0 +1,2030 @@
+[
+  {
+    "code": "flatten-pitch-quince-small",
+    "comment": "Small Hide - Quince (Hot)",
+    "ingredientPattern": "PH",
+    "recipeGroup": 1,
+    "ingredients": {
+      "P": {
+        "type": "block",
+        "code": "game:bowl-*-fired",
+        "name": "bowl",
+        "returnedStack": {
+          "type": "block",
+          "code": "game:bowl-{bowl}-fired"
+        }
+      },
+      "H": {
+        "type": "item",
+        "code": "game:hammer-*",
+        "isTool": true
+      }
+    },
+    "attributes": {
+      "liquidContainerProps": {
+        "requiresContent": {
+          "type": "item",
+          "code": "botanicalleathers:botanicalpitch-quince-hot"
+        },
+        "requiresLitres": 1
+      }
+    },
+    "width": 2,
+    "height": 1,
+    "shapeless": false,
+    "output": {
+      "type": "item",
+      "code": "botanicalleathers:botanicalhide-prepared-small-fruit",
+      "stacksize": 1
+    }
+  },
+  {
+    "code": "flatten-pitch-quince-medium",
+    "comment": "Medium Hide - Quince (Hot)",
+    "ingredientPattern": "PP,H_",
+    "recipeGroup": 2,
+    "ingredients": {
+      "P": {
+        "type": "block",
+        "code": "game:bowl-*-fired",
+        "name": "bowl",
+        "returnedStack": {
+          "type": "block",
+          "code": "game:bowl-{bowl}-fired"
+        }
+      },
+      "H": {
+        "type": "item",
+        "code": "game:hammer-*",
+        "isTool": true
+      }
+    },
+    "attributes": {
+      "liquidContainerProps": {
+        "requiresContent": {
+          "type": "item",
+          "code": "botanicalleathers:botanicalpitch-quince-hot"
+        },
+        "requiresLitres": 1
+      }
+    },
+    "width": 2,
+    "height": 2,
+    "shapeless": false,
+    "output": {
+      "type": "item",
+      "code": "botanicalleathers:botanicalhide-prepared-medium-fruit",
+      "stacksize": 1
+    }
+  },
+  {
+    "code": "flatten-pitch-quince-large",
+    "comment": "Large Hide - Quince (Hot)",
+    "ingredientPattern": "PP,PP,H_",
+    "recipeGroup": 3,
+    "ingredients": {
+      "P": {
+        "type": "block",
+        "code": "game:bowl-*-fired",
+        "name": "bowl",
+        "returnedStack": {
+          "type": "block",
+          "code": "game:bowl-{bowl}-fired"
+        }
+      },
+      "H": {
+        "type": "item",
+        "code": "game:hammer-*",
+        "isTool": true
+      }
+    },
+    "attributes": {
+      "liquidContainerProps": {
+        "requiresContent": {
+          "type": "item",
+          "code": "botanicalleathers:botanicalpitch-quince-hot"
+        },
+        "requiresLitres": 1
+      }
+    },
+    "width": 2,
+    "height": 3,
+    "shapeless": false,
+    "output": {
+      "type": "item",
+      "code": "botanicalleathers:botanicalhide-prepared-large-fruit",
+      "stacksize": 1
+    }
+  },
+  {
+    "code": "flatten-pitch-quince-huge",
+    "comment": "Huge Hide - Quince (Hot)",
+    "ingredientPattern": "PPP,PPP,H__",
+    "recipeGroup": 4,
+    "ingredients": {
+      "P": {
+        "type": "block",
+        "code": "game:bowl-*-fired",
+        "name": "bowl",
+        "returnedStack": {
+          "type": "block",
+          "code": "game:bowl-{bowl}-fired"
+        }
+      },
+      "H": {
+        "type": "item",
+        "code": "game:hammer-*",
+        "isTool": true
+      }
+    },
+    "attributes": {
+      "liquidContainerProps": {
+        "requiresContent": {
+          "type": "item",
+          "code": "botanicalleathers:botanicalpitch-quince-hot"
+        },
+        "requiresLitres": 1
+      }
+    },
+    "width": 3,
+    "height": 3,
+    "shapeless": false,
+    "output": {
+      "type": "item",
+      "code": "botanicalleathers:botanicalhide-prepared-huge-fruit",
+      "stacksize": 1
+    }
+  },
+  {
+    "code": "flatten-pitch-jackfruit-small",
+    "comment": "Small Hide - Jackfruit (Hot)",
+    "ingredientPattern": "PH",
+    "recipeGroup": 1,
+    "ingredients": {
+      "P": {
+        "type": "block",
+        "code": "game:bowl-*-fired",
+        "name": "bowl",
+        "returnedStack": {
+          "type": "block",
+          "code": "game:bowl-{bowl}-fired"
+        }
+      },
+      "H": {
+        "type": "item",
+        "code": "game:hammer-*",
+        "isTool": true
+      }
+    },
+    "attributes": {
+      "liquidContainerProps": {
+        "requiresContent": {
+          "type": "item",
+          "code": "botanicalleathers:botanicalpitch-jackfruit-hot"
+        },
+        "requiresLitres": 1
+      }
+    },
+    "width": 2,
+    "height": 1,
+    "shapeless": false,
+    "output": {
+      "type": "item",
+      "code": "botanicalleathers:botanicalhide-prepared-small-fruit",
+      "stacksize": 1
+    }
+  },
+  {
+    "code": "flatten-pitch-jackfruit-medium",
+    "comment": "Medium Hide - Jackfruit (Hot)",
+    "ingredientPattern": "PP,H_",
+    "recipeGroup": 2,
+    "ingredients": {
+      "P": {
+        "type": "block",
+        "code": "game:bowl-*-fired",
+        "name": "bowl",
+        "returnedStack": {
+          "type": "block",
+          "code": "game:bowl-{bowl}-fired"
+        }
+      },
+      "H": {
+        "type": "item",
+        "code": "game:hammer-*",
+        "isTool": true
+      }
+    },
+    "attributes": {
+      "liquidContainerProps": {
+        "requiresContent": {
+          "type": "item",
+          "code": "botanicalleathers:botanicalpitch-jackfruit-hot"
+        },
+        "requiresLitres": 1
+      }
+    },
+    "width": 2,
+    "height": 2,
+    "shapeless": false,
+    "output": {
+      "type": "item",
+      "code": "botanicalleathers:botanicalhide-prepared-medium-fruit",
+      "stacksize": 1
+    }
+  },
+  {
+    "code": "flatten-pitch-jackfruit-large",
+    "comment": "Large Hide - Jackfruit (Hot)",
+    "ingredientPattern": "PP,PP,H_",
+    "recipeGroup": 3,
+    "ingredients": {
+      "P": {
+        "type": "block",
+        "code": "game:bowl-*-fired",
+        "name": "bowl",
+        "returnedStack": {
+          "type": "block",
+          "code": "game:bowl-{bowl}-fired"
+        }
+      },
+      "H": {
+        "type": "item",
+        "code": "game:hammer-*",
+        "isTool": true
+      }
+    },
+    "attributes": {
+      "liquidContainerProps": {
+        "requiresContent": {
+          "type": "item",
+          "code": "botanicalleathers:botanicalpitch-jackfruit-hot"
+        },
+        "requiresLitres": 1
+      }
+    },
+    "width": 2,
+    "height": 3,
+    "shapeless": false,
+    "output": {
+      "type": "item",
+      "code": "botanicalleathers:botanicalhide-prepared-large-fruit",
+      "stacksize": 1
+    }
+  },
+  {
+    "code": "flatten-pitch-jackfruit-huge",
+    "comment": "Huge Hide - Jackfruit (Hot)",
+    "ingredientPattern": "PPP,PPP,H__",
+    "recipeGroup": 4,
+    "ingredients": {
+      "P": {
+        "type": "block",
+        "code": "game:bowl-*-fired",
+        "name": "bowl",
+        "returnedStack": {
+          "type": "block",
+          "code": "game:bowl-{bowl}-fired"
+        }
+      },
+      "H": {
+        "type": "item",
+        "code": "game:hammer-*",
+        "isTool": true
+      }
+    },
+    "attributes": {
+      "liquidContainerProps": {
+        "requiresContent": {
+          "type": "item",
+          "code": "botanicalleathers:botanicalpitch-jackfruit-hot"
+        },
+        "requiresLitres": 1
+      }
+    },
+    "width": 3,
+    "height": 3,
+    "shapeless": false,
+    "output": {
+      "type": "item",
+      "code": "botanicalleathers:botanicalhide-prepared-huge-fruit",
+      "stacksize": 1
+    }
+  },
+  {
+    "code": "flatten-pitch-pandanbits-small",
+    "comment": "Small Hide - Pandanbits (Hot)",
+    "ingredientPattern": "PH",
+    "recipeGroup": 1,
+    "ingredients": {
+      "P": {
+        "type": "block",
+        "code": "game:bowl-*-fired",
+        "name": "bowl",
+        "returnedStack": {
+          "type": "block",
+          "code": "game:bowl-{bowl}-fired"
+        }
+      },
+      "H": {
+        "type": "item",
+        "code": "game:hammer-*",
+        "isTool": true
+      }
+    },
+    "attributes": {
+      "liquidContainerProps": {
+        "requiresContent": {
+          "type": "item",
+          "code": "botanicalleathers:botanicalpitch-pandanbits-hot"
+        },
+        "requiresLitres": 1
+      }
+    },
+    "width": 2,
+    "height": 1,
+    "shapeless": false,
+    "output": {
+      "type": "item",
+      "code": "botanicalleathers:botanicalhide-prepared-small-fruit",
+      "stacksize": 1
+    }
+  },
+  {
+    "code": "flatten-pitch-pandanbits-medium",
+    "comment": "Medium Hide - Pandanbits (Hot)",
+    "ingredientPattern": "PP,H_",
+    "recipeGroup": 2,
+    "ingredients": {
+      "P": {
+        "type": "block",
+        "code": "game:bowl-*-fired",
+        "name": "bowl",
+        "returnedStack": {
+          "type": "block",
+          "code": "game:bowl-{bowl}-fired"
+        }
+      },
+      "H": {
+        "type": "item",
+        "code": "game:hammer-*",
+        "isTool": true
+      }
+    },
+    "attributes": {
+      "liquidContainerProps": {
+        "requiresContent": {
+          "type": "item",
+          "code": "botanicalleathers:botanicalpitch-pandanbits-hot"
+        },
+        "requiresLitres": 1
+      }
+    },
+    "width": 2,
+    "height": 2,
+    "shapeless": false,
+    "output": {
+      "type": "item",
+      "code": "botanicalleathers:botanicalhide-prepared-medium-fruit",
+      "stacksize": 1
+    }
+  },
+  {
+    "code": "flatten-pitch-pandanbits-large",
+    "comment": "Large Hide - Pandanbits (Hot)",
+    "ingredientPattern": "PP,PP,H_",
+    "recipeGroup": 3,
+    "ingredients": {
+      "P": {
+        "type": "block",
+        "code": "game:bowl-*-fired",
+        "name": "bowl",
+        "returnedStack": {
+          "type": "block",
+          "code": "game:bowl-{bowl}-fired"
+        }
+      },
+      "H": {
+        "type": "item",
+        "code": "game:hammer-*",
+        "isTool": true
+      }
+    },
+    "attributes": {
+      "liquidContainerProps": {
+        "requiresContent": {
+          "type": "item",
+          "code": "botanicalleathers:botanicalpitch-pandanbits-hot"
+        },
+        "requiresLitres": 1
+      }
+    },
+    "width": 2,
+    "height": 3,
+    "shapeless": false,
+    "output": {
+      "type": "item",
+      "code": "botanicalleathers:botanicalhide-prepared-large-fruit",
+      "stacksize": 1
+    }
+  },
+  {
+    "code": "flatten-pitch-pandanbits-huge",
+    "comment": "Huge Hide - Pandanbits (Hot)",
+    "ingredientPattern": "PPP,PPP,H__",
+    "recipeGroup": 4,
+    "ingredients": {
+      "P": {
+        "type": "block",
+        "code": "game:bowl-*-fired",
+        "name": "bowl",
+        "returnedStack": {
+          "type": "block",
+          "code": "game:bowl-{bowl}-fired"
+        }
+      },
+      "H": {
+        "type": "item",
+        "code": "game:hammer-*",
+        "isTool": true
+      }
+    },
+    "attributes": {
+      "liquidContainerProps": {
+        "requiresContent": {
+          "type": "item",
+          "code": "botanicalleathers:botanicalpitch-pandanbits-hot"
+        },
+        "requiresLitres": 1
+      }
+    },
+    "width": 3,
+    "height": 3,
+    "shapeless": false,
+    "output": {
+      "type": "item",
+      "code": "botanicalleathers:botanicalhide-prepared-huge-fruit",
+      "stacksize": 1
+    }
+  },
+  {
+    "code": "flatten-pitch-grapefruit-small",
+    "comment": "Small Hide - Grapefruit (Hot)",
+    "ingredientPattern": "PH",
+    "recipeGroup": 1,
+    "ingredients": {
+      "P": {
+        "type": "block",
+        "code": "game:bowl-*-fired",
+        "name": "bowl",
+        "returnedStack": {
+          "type": "block",
+          "code": "game:bowl-{bowl}-fired"
+        }
+      },
+      "H": {
+        "type": "item",
+        "code": "game:hammer-*",
+        "isTool": true
+      }
+    },
+    "attributes": {
+      "liquidContainerProps": {
+        "requiresContent": {
+          "type": "item",
+          "code": "botanicalleathers:botanicalpitch-grapefruit-hot"
+        },
+        "requiresLitres": 1
+      }
+    },
+    "width": 2,
+    "height": 1,
+    "shapeless": false,
+    "output": {
+      "type": "item",
+      "code": "botanicalleathers:botanicalhide-prepared-small-fruit",
+      "stacksize": 1
+    }
+  },
+  {
+    "code": "flatten-pitch-grapefruit-medium",
+    "comment": "Medium Hide - Grapefruit (Hot)",
+    "ingredientPattern": "PP,H_",
+    "recipeGroup": 2,
+    "ingredients": {
+      "P": {
+        "type": "block",
+        "code": "game:bowl-*-fired",
+        "name": "bowl",
+        "returnedStack": {
+          "type": "block",
+          "code": "game:bowl-{bowl}-fired"
+        }
+      },
+      "H": {
+        "type": "item",
+        "code": "game:hammer-*",
+        "isTool": true
+      }
+    },
+    "attributes": {
+      "liquidContainerProps": {
+        "requiresContent": {
+          "type": "item",
+          "code": "botanicalleathers:botanicalpitch-grapefruit-hot"
+        },
+        "requiresLitres": 1
+      }
+    },
+    "width": 2,
+    "height": 2,
+    "shapeless": false,
+    "output": {
+      "type": "item",
+      "code": "botanicalleathers:botanicalhide-prepared-medium-fruit",
+      "stacksize": 1
+    }
+  },
+  {
+    "code": "flatten-pitch-grapefruit-large",
+    "comment": "Large Hide - Grapefruit (Hot)",
+    "ingredientPattern": "PP,PP,H_",
+    "recipeGroup": 3,
+    "ingredients": {
+      "P": {
+        "type": "block",
+        "code": "game:bowl-*-fired",
+        "name": "bowl",
+        "returnedStack": {
+          "type": "block",
+          "code": "game:bowl-{bowl}-fired"
+        }
+      },
+      "H": {
+        "type": "item",
+        "code": "game:hammer-*",
+        "isTool": true
+      }
+    },
+    "attributes": {
+      "liquidContainerProps": {
+        "requiresContent": {
+          "type": "item",
+          "code": "botanicalleathers:botanicalpitch-grapefruit-hot"
+        },
+        "requiresLitres": 1
+      }
+    },
+    "width": 2,
+    "height": 3,
+    "shapeless": false,
+    "output": {
+      "type": "item",
+      "code": "botanicalleathers:botanicalhide-prepared-large-fruit",
+      "stacksize": 1
+    }
+  },
+  {
+    "code": "flatten-pitch-grapefruit-huge",
+    "comment": "Huge Hide - Grapefruit (Hot)",
+    "ingredientPattern": "PPP,PPP,H__",
+    "recipeGroup": 4,
+    "ingredients": {
+      "P": {
+        "type": "block",
+        "code": "game:bowl-*-fired",
+        "name": "bowl",
+        "returnedStack": {
+          "type": "block",
+          "code": "game:bowl-{bowl}-fired"
+        }
+      },
+      "H": {
+        "type": "item",
+        "code": "game:hammer-*",
+        "isTool": true
+      }
+    },
+    "attributes": {
+      "liquidContainerProps": {
+        "requiresContent": {
+          "type": "item",
+          "code": "botanicalleathers:botanicalpitch-grapefruit-hot"
+        },
+        "requiresLitres": 1
+      }
+    },
+    "width": 3,
+    "height": 3,
+    "shapeless": false,
+    "output": {
+      "type": "item",
+      "code": "botanicalleathers:botanicalhide-prepared-huge-fruit",
+      "stacksize": 1
+    }
+  },
+  {
+    "code": "flatten-pitch-blackgrape-small",
+    "comment": "Small Hide - Blackgrape (Hot)",
+    "ingredientPattern": "PH",
+    "recipeGroup": 1,
+    "ingredients": {
+      "P": {
+        "type": "block",
+        "code": "game:bowl-*-fired",
+        "name": "bowl",
+        "returnedStack": {
+          "type": "block",
+          "code": "game:bowl-{bowl}-fired"
+        }
+      },
+      "H": {
+        "type": "item",
+        "code": "game:hammer-*",
+        "isTool": true
+      }
+    },
+    "attributes": {
+      "liquidContainerProps": {
+        "requiresContent": {
+          "type": "item",
+          "code": "botanicalleathers:botanicalpitch-blackgrape-hot"
+        },
+        "requiresLitres": 1
+      }
+    },
+    "width": 2,
+    "height": 1,
+    "shapeless": false,
+    "output": {
+      "type": "item",
+      "code": "botanicalleathers:botanicalhide-prepared-small-fruit",
+      "stacksize": 1
+    }
+  },
+  {
+    "code": "flatten-pitch-blackgrape-medium",
+    "comment": "Medium Hide - Blackgrape (Hot)",
+    "ingredientPattern": "PP,H_",
+    "recipeGroup": 2,
+    "ingredients": {
+      "P": {
+        "type": "block",
+        "code": "game:bowl-*-fired",
+        "name": "bowl",
+        "returnedStack": {
+          "type": "block",
+          "code": "game:bowl-{bowl}-fired"
+        }
+      },
+      "H": {
+        "type": "item",
+        "code": "game:hammer-*",
+        "isTool": true
+      }
+    },
+    "attributes": {
+      "liquidContainerProps": {
+        "requiresContent": {
+          "type": "item",
+          "code": "botanicalleathers:botanicalpitch-blackgrape-hot"
+        },
+        "requiresLitres": 1
+      }
+    },
+    "width": 2,
+    "height": 2,
+    "shapeless": false,
+    "output": {
+      "type": "item",
+      "code": "botanicalleathers:botanicalhide-prepared-medium-fruit",
+      "stacksize": 1
+    }
+  },
+  {
+    "code": "flatten-pitch-blackgrape-large",
+    "comment": "Large Hide - Blackgrape (Hot)",
+    "ingredientPattern": "PP,PP,H_",
+    "recipeGroup": 3,
+    "ingredients": {
+      "P": {
+        "type": "block",
+        "code": "game:bowl-*-fired",
+        "name": "bowl",
+        "returnedStack": {
+          "type": "block",
+          "code": "game:bowl-{bowl}-fired"
+        }
+      },
+      "H": {
+        "type": "item",
+        "code": "game:hammer-*",
+        "isTool": true
+      }
+    },
+    "attributes": {
+      "liquidContainerProps": {
+        "requiresContent": {
+          "type": "item",
+          "code": "botanicalleathers:botanicalpitch-blackgrape-hot"
+        },
+        "requiresLitres": 1
+      }
+    },
+    "width": 2,
+    "height": 3,
+    "shapeless": false,
+    "output": {
+      "type": "item",
+      "code": "botanicalleathers:botanicalhide-prepared-large-fruit",
+      "stacksize": 1
+    }
+  },
+  {
+    "code": "flatten-pitch-blackgrape-huge",
+    "comment": "Huge Hide - Blackgrape (Hot)",
+    "ingredientPattern": "PPP,PPP,H__",
+    "recipeGroup": 4,
+    "ingredients": {
+      "P": {
+        "type": "block",
+        "code": "game:bowl-*-fired",
+        "name": "bowl",
+        "returnedStack": {
+          "type": "block",
+          "code": "game:bowl-{bowl}-fired"
+        }
+      },
+      "H": {
+        "type": "item",
+        "code": "game:hammer-*",
+        "isTool": true
+      }
+    },
+    "attributes": {
+      "liquidContainerProps": {
+        "requiresContent": {
+          "type": "item",
+          "code": "botanicalleathers:botanicalpitch-blackgrape-hot"
+        },
+        "requiresLitres": 1
+      }
+    },
+    "width": 3,
+    "height": 3,
+    "shapeless": false,
+    "output": {
+      "type": "item",
+      "code": "botanicalleathers:botanicalhide-prepared-huge-fruit",
+      "stacksize": 1
+    }
+  },
+  {
+    "code": "flatten-pitch-redgrape-small",
+    "comment": "Small Hide - Redgrape (Hot)",
+    "ingredientPattern": "PH",
+    "recipeGroup": 1,
+    "ingredients": {
+      "P": {
+        "type": "block",
+        "code": "game:bowl-*-fired",
+        "name": "bowl",
+        "returnedStack": {
+          "type": "block",
+          "code": "game:bowl-{bowl}-fired"
+        }
+      },
+      "H": {
+        "type": "item",
+        "code": "game:hammer-*",
+        "isTool": true
+      }
+    },
+    "attributes": {
+      "liquidContainerProps": {
+        "requiresContent": {
+          "type": "item",
+          "code": "botanicalleathers:botanicalpitch-redgrape-hot"
+        },
+        "requiresLitres": 1
+      }
+    },
+    "width": 2,
+    "height": 1,
+    "shapeless": false,
+    "output": {
+      "type": "item",
+      "code": "botanicalleathers:botanicalhide-prepared-small-fruit",
+      "stacksize": 1
+    }
+  },
+  {
+    "code": "flatten-pitch-redgrape-medium",
+    "comment": "Medium Hide - Redgrape (Hot)",
+    "ingredientPattern": "PP,H_",
+    "recipeGroup": 2,
+    "ingredients": {
+      "P": {
+        "type": "block",
+        "code": "game:bowl-*-fired",
+        "name": "bowl",
+        "returnedStack": {
+          "type": "block",
+          "code": "game:bowl-{bowl}-fired"
+        }
+      },
+      "H": {
+        "type": "item",
+        "code": "game:hammer-*",
+        "isTool": true
+      }
+    },
+    "attributes": {
+      "liquidContainerProps": {
+        "requiresContent": {
+          "type": "item",
+          "code": "botanicalleathers:botanicalpitch-redgrape-hot"
+        },
+        "requiresLitres": 1
+      }
+    },
+    "width": 2,
+    "height": 2,
+    "shapeless": false,
+    "output": {
+      "type": "item",
+      "code": "botanicalleathers:botanicalhide-prepared-medium-fruit",
+      "stacksize": 1
+    }
+  },
+  {
+    "code": "flatten-pitch-redgrape-large",
+    "comment": "Large Hide - Redgrape (Hot)",
+    "ingredientPattern": "PP,PP,H_",
+    "recipeGroup": 3,
+    "ingredients": {
+      "P": {
+        "type": "block",
+        "code": "game:bowl-*-fired",
+        "name": "bowl",
+        "returnedStack": {
+          "type": "block",
+          "code": "game:bowl-{bowl}-fired"
+        }
+      },
+      "H": {
+        "type": "item",
+        "code": "game:hammer-*",
+        "isTool": true
+      }
+    },
+    "attributes": {
+      "liquidContainerProps": {
+        "requiresContent": {
+          "type": "item",
+          "code": "botanicalleathers:botanicalpitch-redgrape-hot"
+        },
+        "requiresLitres": 1
+      }
+    },
+    "width": 2,
+    "height": 3,
+    "shapeless": false,
+    "output": {
+      "type": "item",
+      "code": "botanicalleathers:botanicalhide-prepared-large-fruit",
+      "stacksize": 1
+    }
+  },
+  {
+    "code": "flatten-pitch-redgrape-huge",
+    "comment": "Huge Hide - Redgrape (Hot)",
+    "ingredientPattern": "PPP,PPP,H__",
+    "recipeGroup": 4,
+    "ingredients": {
+      "P": {
+        "type": "block",
+        "code": "game:bowl-*-fired",
+        "name": "bowl",
+        "returnedStack": {
+          "type": "block",
+          "code": "game:bowl-{bowl}-fired"
+        }
+      },
+      "H": {
+        "type": "item",
+        "code": "game:hammer-*",
+        "isTool": true
+      }
+    },
+    "attributes": {
+      "liquidContainerProps": {
+        "requiresContent": {
+          "type": "item",
+          "code": "botanicalleathers:botanicalpitch-redgrape-hot"
+        },
+        "requiresLitres": 1
+      }
+    },
+    "width": 3,
+    "height": 3,
+    "shapeless": false,
+    "output": {
+      "type": "item",
+      "code": "botanicalleathers:botanicalhide-prepared-huge-fruit",
+      "stacksize": 1
+    }
+  },
+  {
+    "code": "flatten-pitch-whitegrape-small",
+    "comment": "Small Hide - Whitegrape (Hot)",
+    "ingredientPattern": "PH",
+    "recipeGroup": 1,
+    "ingredients": {
+      "P": {
+        "type": "block",
+        "code": "game:bowl-*-fired",
+        "name": "bowl",
+        "returnedStack": {
+          "type": "block",
+          "code": "game:bowl-{bowl}-fired"
+        }
+      },
+      "H": {
+        "type": "item",
+        "code": "game:hammer-*",
+        "isTool": true
+      }
+    },
+    "attributes": {
+      "liquidContainerProps": {
+        "requiresContent": {
+          "type": "item",
+          "code": "botanicalleathers:botanicalpitch-whitegrape-hot"
+        },
+        "requiresLitres": 1
+      }
+    },
+    "width": 2,
+    "height": 1,
+    "shapeless": false,
+    "output": {
+      "type": "item",
+      "code": "botanicalleathers:botanicalhide-prepared-small-fruit",
+      "stacksize": 1
+    }
+  },
+  {
+    "code": "flatten-pitch-whitegrape-medium",
+    "comment": "Medium Hide - Whitegrape (Hot)",
+    "ingredientPattern": "PP,H_",
+    "recipeGroup": 2,
+    "ingredients": {
+      "P": {
+        "type": "block",
+        "code": "game:bowl-*-fired",
+        "name": "bowl",
+        "returnedStack": {
+          "type": "block",
+          "code": "game:bowl-{bowl}-fired"
+        }
+      },
+      "H": {
+        "type": "item",
+        "code": "game:hammer-*",
+        "isTool": true
+      }
+    },
+    "attributes": {
+      "liquidContainerProps": {
+        "requiresContent": {
+          "type": "item",
+          "code": "botanicalleathers:botanicalpitch-whitegrape-hot"
+        },
+        "requiresLitres": 1
+      }
+    },
+    "width": 2,
+    "height": 2,
+    "shapeless": false,
+    "output": {
+      "type": "item",
+      "code": "botanicalleathers:botanicalhide-prepared-medium-fruit",
+      "stacksize": 1
+    }
+  },
+  {
+    "code": "flatten-pitch-whitegrape-large",
+    "comment": "Large Hide - Whitegrape (Hot)",
+    "ingredientPattern": "PP,PP,H_",
+    "recipeGroup": 3,
+    "ingredients": {
+      "P": {
+        "type": "block",
+        "code": "game:bowl-*-fired",
+        "name": "bowl",
+        "returnedStack": {
+          "type": "block",
+          "code": "game:bowl-{bowl}-fired"
+        }
+      },
+      "H": {
+        "type": "item",
+        "code": "game:hammer-*",
+        "isTool": true
+      }
+    },
+    "attributes": {
+      "liquidContainerProps": {
+        "requiresContent": {
+          "type": "item",
+          "code": "botanicalleathers:botanicalpitch-whitegrape-hot"
+        },
+        "requiresLitres": 1
+      }
+    },
+    "width": 2,
+    "height": 3,
+    "shapeless": false,
+    "output": {
+      "type": "item",
+      "code": "botanicalleathers:botanicalhide-prepared-large-fruit",
+      "stacksize": 1
+    }
+  },
+  {
+    "code": "flatten-pitch-whitegrape-huge",
+    "comment": "Huge Hide - Whitegrape (Hot)",
+    "ingredientPattern": "PPP,PPP,H__",
+    "recipeGroup": 4,
+    "ingredients": {
+      "P": {
+        "type": "block",
+        "code": "game:bowl-*-fired",
+        "name": "bowl",
+        "returnedStack": {
+          "type": "block",
+          "code": "game:bowl-{bowl}-fired"
+        }
+      },
+      "H": {
+        "type": "item",
+        "code": "game:hammer-*",
+        "isTool": true
+      }
+    },
+    "attributes": {
+      "liquidContainerProps": {
+        "requiresContent": {
+          "type": "item",
+          "code": "botanicalleathers:botanicalpitch-whitegrape-hot"
+        },
+        "requiresLitres": 1
+      }
+    },
+    "width": 3,
+    "height": 3,
+    "shapeless": false,
+    "output": {
+      "type": "item",
+      "code": "botanicalleathers:botanicalhide-prepared-huge-fruit",
+      "stacksize": 1
+    }
+  },
+  {
+    "code": "flatten-pitch-foxgrape-small",
+    "comment": "Small Hide - Foxgrape (Hot)",
+    "ingredientPattern": "PH",
+    "recipeGroup": 1,
+    "ingredients": {
+      "P": {
+        "type": "block",
+        "code": "game:bowl-*-fired",
+        "name": "bowl",
+        "returnedStack": {
+          "type": "block",
+          "code": "game:bowl-{bowl}-fired"
+        }
+      },
+      "H": {
+        "type": "item",
+        "code": "game:hammer-*",
+        "isTool": true
+      }
+    },
+    "attributes": {
+      "liquidContainerProps": {
+        "requiresContent": {
+          "type": "item",
+          "code": "botanicalleathers:botanicalpitch-foxgrape-hot"
+        },
+        "requiresLitres": 1
+      }
+    },
+    "width": 2,
+    "height": 1,
+    "shapeless": false,
+    "output": {
+      "type": "item",
+      "code": "botanicalleathers:botanicalhide-prepared-small-fruit",
+      "stacksize": 1
+    }
+  },
+  {
+    "code": "flatten-pitch-foxgrape-medium",
+    "comment": "Medium Hide - Foxgrape (Hot)",
+    "ingredientPattern": "PP,H_",
+    "recipeGroup": 2,
+    "ingredients": {
+      "P": {
+        "type": "block",
+        "code": "game:bowl-*-fired",
+        "name": "bowl",
+        "returnedStack": {
+          "type": "block",
+          "code": "game:bowl-{bowl}-fired"
+        }
+      },
+      "H": {
+        "type": "item",
+        "code": "game:hammer-*",
+        "isTool": true
+      }
+    },
+    "attributes": {
+      "liquidContainerProps": {
+        "requiresContent": {
+          "type": "item",
+          "code": "botanicalleathers:botanicalpitch-foxgrape-hot"
+        },
+        "requiresLitres": 1
+      }
+    },
+    "width": 2,
+    "height": 2,
+    "shapeless": false,
+    "output": {
+      "type": "item",
+      "code": "botanicalleathers:botanicalhide-prepared-medium-fruit",
+      "stacksize": 1
+    }
+  },
+  {
+    "code": "flatten-pitch-foxgrape-large",
+    "comment": "Large Hide - Foxgrape (Hot)",
+    "ingredientPattern": "PP,PP,H_",
+    "recipeGroup": 3,
+    "ingredients": {
+      "P": {
+        "type": "block",
+        "code": "game:bowl-*-fired",
+        "name": "bowl",
+        "returnedStack": {
+          "type": "block",
+          "code": "game:bowl-{bowl}-fired"
+        }
+      },
+      "H": {
+        "type": "item",
+        "code": "game:hammer-*",
+        "isTool": true
+      }
+    },
+    "attributes": {
+      "liquidContainerProps": {
+        "requiresContent": {
+          "type": "item",
+          "code": "botanicalleathers:botanicalpitch-foxgrape-hot"
+        },
+        "requiresLitres": 1
+      }
+    },
+    "width": 2,
+    "height": 3,
+    "shapeless": false,
+    "output": {
+      "type": "item",
+      "code": "botanicalleathers:botanicalhide-prepared-large-fruit",
+      "stacksize": 1
+    }
+  },
+  {
+    "code": "flatten-pitch-foxgrape-huge",
+    "comment": "Huge Hide - Foxgrape (Hot)",
+    "ingredientPattern": "PPP,PPP,H__",
+    "recipeGroup": 4,
+    "ingredients": {
+      "P": {
+        "type": "block",
+        "code": "game:bowl-*-fired",
+        "name": "bowl",
+        "returnedStack": {
+          "type": "block",
+          "code": "game:bowl-{bowl}-fired"
+        }
+      },
+      "H": {
+        "type": "item",
+        "code": "game:hammer-*",
+        "isTool": true
+      }
+    },
+    "attributes": {
+      "liquidContainerProps": {
+        "requiresContent": {
+          "type": "item",
+          "code": "botanicalleathers:botanicalpitch-foxgrape-hot"
+        },
+        "requiresLitres": 1
+      }
+    },
+    "width": 3,
+    "height": 3,
+    "shapeless": false,
+    "output": {
+      "type": "item",
+      "code": "botanicalleathers:botanicalhide-prepared-huge-fruit",
+      "stacksize": 1
+    }
+  },
+  {
+    "code": "flatten-pitch-virgingrape-small",
+    "comment": "Small Hide - Virgingrape (Hot)",
+    "ingredientPattern": "PH",
+    "recipeGroup": 1,
+    "ingredients": {
+      "P": {
+        "type": "block",
+        "code": "game:bowl-*-fired",
+        "name": "bowl",
+        "returnedStack": {
+          "type": "block",
+          "code": "game:bowl-{bowl}-fired"
+        }
+      },
+      "H": {
+        "type": "item",
+        "code": "game:hammer-*",
+        "isTool": true
+      }
+    },
+    "attributes": {
+      "liquidContainerProps": {
+        "requiresContent": {
+          "type": "item",
+          "code": "botanicalleathers:botanicalpitch-virgingrape-hot"
+        },
+        "requiresLitres": 1
+      }
+    },
+    "width": 2,
+    "height": 1,
+    "shapeless": false,
+    "output": {
+      "type": "item",
+      "code": "botanicalleathers:botanicalhide-prepared-small-fruit",
+      "stacksize": 1
+    }
+  },
+  {
+    "code": "flatten-pitch-virgingrape-medium",
+    "comment": "Medium Hide - Virgingrape (Hot)",
+    "ingredientPattern": "PP,H_",
+    "recipeGroup": 2,
+    "ingredients": {
+      "P": {
+        "type": "block",
+        "code": "game:bowl-*-fired",
+        "name": "bowl",
+        "returnedStack": {
+          "type": "block",
+          "code": "game:bowl-{bowl}-fired"
+        }
+      },
+      "H": {
+        "type": "item",
+        "code": "game:hammer-*",
+        "isTool": true
+      }
+    },
+    "attributes": {
+      "liquidContainerProps": {
+        "requiresContent": {
+          "type": "item",
+          "code": "botanicalleathers:botanicalpitch-virgingrape-hot"
+        },
+        "requiresLitres": 1
+      }
+    },
+    "width": 2,
+    "height": 2,
+    "shapeless": false,
+    "output": {
+      "type": "item",
+      "code": "botanicalleathers:botanicalhide-prepared-medium-fruit",
+      "stacksize": 1
+    }
+  },
+  {
+    "code": "flatten-pitch-virgingrape-large",
+    "comment": "Large Hide - Virgingrape (Hot)",
+    "ingredientPattern": "PP,PP,H_",
+    "recipeGroup": 3,
+    "ingredients": {
+      "P": {
+        "type": "block",
+        "code": "game:bowl-*-fired",
+        "name": "bowl",
+        "returnedStack": {
+          "type": "block",
+          "code": "game:bowl-{bowl}-fired"
+        }
+      },
+      "H": {
+        "type": "item",
+        "code": "game:hammer-*",
+        "isTool": true
+      }
+    },
+    "attributes": {
+      "liquidContainerProps": {
+        "requiresContent": {
+          "type": "item",
+          "code": "botanicalleathers:botanicalpitch-virgingrape-hot"
+        },
+        "requiresLitres": 1
+      }
+    },
+    "width": 2,
+    "height": 3,
+    "shapeless": false,
+    "output": {
+      "type": "item",
+      "code": "botanicalleathers:botanicalhide-prepared-large-fruit",
+      "stacksize": 1
+    }
+  },
+  {
+    "code": "flatten-pitch-virgingrape-huge",
+    "comment": "Huge Hide - Virgingrape (Hot)",
+    "ingredientPattern": "PPP,PPP,H__",
+    "recipeGroup": 4,
+    "ingredients": {
+      "P": {
+        "type": "block",
+        "code": "game:bowl-*-fired",
+        "name": "bowl",
+        "returnedStack": {
+          "type": "block",
+          "code": "game:bowl-{bowl}-fired"
+        }
+      },
+      "H": {
+        "type": "item",
+        "code": "game:hammer-*",
+        "isTool": true
+      }
+    },
+    "attributes": {
+      "liquidContainerProps": {
+        "requiresContent": {
+          "type": "item",
+          "code": "botanicalleathers:botanicalpitch-virgingrape-hot"
+        },
+        "requiresLitres": 1
+      }
+    },
+    "width": 3,
+    "height": 3,
+    "shapeless": false,
+    "output": {
+      "type": "item",
+      "code": "botanicalleathers:botanicalhide-prepared-huge-fruit",
+      "stacksize": 1
+    }
+  },
+  {
+    "code": "flatten-pitch-lemonaspen-small",
+    "comment": "Small Hide - Lemon (Hot)",
+    "ingredientPattern": "PH",
+    "recipeGroup": 1,
+    "ingredients": {
+      "P": {
+        "type": "block",
+        "code": "game:bowl-*-fired",
+        "name": "bowl",
+        "returnedStack": {
+          "type": "block",
+          "code": "game:bowl-{bowl}-fired"
+        }
+      },
+      "H": {
+        "type": "item",
+        "code": "game:hammer-*",
+        "isTool": true
+      }
+    },
+    "attributes": {
+      "liquidContainerProps": {
+        "requiresContent": {
+          "type": "item",
+          "code": "botanicalleathers:botanicalpitch-lemonaspen-hot"
+        },
+        "requiresLitres": 1
+      }
+    },
+    "width": 2,
+    "height": 1,
+    "shapeless": false,
+    "output": {
+      "type": "item",
+      "code": "botanicalleathers:botanicalhide-prepared-small-fruit",
+      "stacksize": 1
+    }
+  },
+  {
+    "code": "flatten-pitch-lemonaspen-medium",
+    "comment": "Medium Hide - Lemon (Hot)",
+    "ingredientPattern": "PP,H_",
+    "recipeGroup": 2,
+    "ingredients": {
+      "P": {
+        "type": "block",
+        "code": "game:bowl-*-fired",
+        "name": "bowl",
+        "returnedStack": {
+          "type": "block",
+          "code": "game:bowl-{bowl}-fired"
+        }
+      },
+      "H": {
+        "type": "item",
+        "code": "game:hammer-*",
+        "isTool": true
+      }
+    },
+    "attributes": {
+      "liquidContainerProps": {
+        "requiresContent": {
+          "type": "item",
+          "code": "botanicalleathers:botanicalpitch-lemonaspen-hot"
+        },
+        "requiresLitres": 1
+      }
+    },
+    "width": 2,
+    "height": 2,
+    "shapeless": false,
+    "output": {
+      "type": "item",
+      "code": "botanicalleathers:botanicalhide-prepared-medium-fruit",
+      "stacksize": 1
+    }
+  },
+  {
+    "code": "flatten-pitch-lemonaspen-large",
+    "comment": "Large Hide - Lemon (Hot)",
+    "ingredientPattern": "PP,PP,H_",
+    "recipeGroup": 3,
+    "ingredients": {
+      "P": {
+        "type": "block",
+        "code": "game:bowl-*-fired",
+        "name": "bowl",
+        "returnedStack": {
+          "type": "block",
+          "code": "game:bowl-{bowl}-fired"
+        }
+      },
+      "H": {
+        "type": "item",
+        "code": "game:hammer-*",
+        "isTool": true
+      }
+    },
+    "attributes": {
+      "liquidContainerProps": {
+        "requiresContent": {
+          "type": "item",
+          "code": "botanicalleathers:botanicalpitch-lemonaspen-hot"
+        },
+        "requiresLitres": 1
+      }
+    },
+    "width": 2,
+    "height": 3,
+    "shapeless": false,
+    "output": {
+      "type": "item",
+      "code": "botanicalleathers:botanicalhide-prepared-large-fruit",
+      "stacksize": 1
+    }
+  },
+  {
+    "code": "flatten-pitch-lemonaspen-huge",
+    "comment": "Huge Hide - Lemon (Hot)",
+    "ingredientPattern": "PPP,PPP,H__",
+    "recipeGroup": 4,
+    "ingredients": {
+      "P": {
+        "type": "block",
+        "code": "game:bowl-*-fired",
+        "name": "bowl",
+        "returnedStack": {
+          "type": "block",
+          "code": "game:bowl-{bowl}-fired"
+        }
+      },
+      "H": {
+        "type": "item",
+        "code": "game:hammer-*",
+        "isTool": true
+      }
+    },
+    "attributes": {
+      "liquidContainerProps": {
+        "requiresContent": {
+          "type": "item",
+          "code": "botanicalleathers:botanicalpitch-lemonaspen-hot"
+        },
+        "requiresLitres": 1
+      }
+    },
+    "width": 3,
+    "height": 3,
+    "shapeless": false,
+    "output": {
+      "type": "item",
+      "code": "botanicalleathers:botanicalhide-prepared-huge-fruit",
+      "stacksize": 1
+    }
+  },
+  {
+    "code": "flatten-pitch-lime-small",
+    "comment": "Small Hide - Lime (Hot)",
+    "ingredientPattern": "PH",
+    "recipeGroup": 1,
+    "ingredients": {
+      "P": {
+        "type": "block",
+        "code": "game:bowl-*-fired",
+        "name": "bowl",
+        "returnedStack": {
+          "type": "block",
+          "code": "game:bowl-{bowl}-fired"
+        }
+      },
+      "H": {
+        "type": "item",
+        "code": "game:hammer-*",
+        "isTool": true
+      }
+    },
+    "attributes": {
+      "liquidContainerProps": {
+        "requiresContent": {
+          "type": "item",
+          "code": "botanicalleathers:botanicalpitch-lime-hot"
+        },
+        "requiresLitres": 1
+      }
+    },
+    "width": 2,
+    "height": 1,
+    "shapeless": false,
+    "output": {
+      "type": "item",
+      "code": "botanicalleathers:botanicalhide-prepared-small-fruit",
+      "stacksize": 1
+    }
+  },
+  {
+    "code": "flatten-pitch-lime-medium",
+    "comment": "Medium Hide - Lime (Hot)",
+    "ingredientPattern": "PP,H_",
+    "recipeGroup": 2,
+    "ingredients": {
+      "P": {
+        "type": "block",
+        "code": "game:bowl-*-fired",
+        "name": "bowl",
+        "returnedStack": {
+          "type": "block",
+          "code": "game:bowl-{bowl}-fired"
+        }
+      },
+      "H": {
+        "type": "item",
+        "code": "game:hammer-*",
+        "isTool": true
+      }
+    },
+    "attributes": {
+      "liquidContainerProps": {
+        "requiresContent": {
+          "type": "item",
+          "code": "botanicalleathers:botanicalpitch-lime-hot"
+        },
+        "requiresLitres": 1
+      }
+    },
+    "width": 2,
+    "height": 2,
+    "shapeless": false,
+    "output": {
+      "type": "item",
+      "code": "botanicalleathers:botanicalhide-prepared-medium-fruit",
+      "stacksize": 1
+    }
+  },
+  {
+    "code": "flatten-pitch-lime-large",
+    "comment": "Large Hide - Lime (Hot)",
+    "ingredientPattern": "PP,PP,H_",
+    "recipeGroup": 3,
+    "ingredients": {
+      "P": {
+        "type": "block",
+        "code": "game:bowl-*-fired",
+        "name": "bowl",
+        "returnedStack": {
+          "type": "block",
+          "code": "game:bowl-{bowl}-fired"
+        }
+      },
+      "H": {
+        "type": "item",
+        "code": "game:hammer-*",
+        "isTool": true
+      }
+    },
+    "attributes": {
+      "liquidContainerProps": {
+        "requiresContent": {
+          "type": "item",
+          "code": "botanicalleathers:botanicalpitch-lime-hot"
+        },
+        "requiresLitres": 1
+      }
+    },
+    "width": 2,
+    "height": 3,
+    "shapeless": false,
+    "output": {
+      "type": "item",
+      "code": "botanicalleathers:botanicalhide-prepared-large-fruit",
+      "stacksize": 1
+    }
+  },
+  {
+    "code": "flatten-pitch-lime-huge",
+    "comment": "Huge Hide - Lime (Hot)",
+    "ingredientPattern": "PPP,PPP,H__",
+    "recipeGroup": 4,
+    "ingredients": {
+      "P": {
+        "type": "block",
+        "code": "game:bowl-*-fired",
+        "name": "bowl",
+        "returnedStack": {
+          "type": "block",
+          "code": "game:bowl-{bowl}-fired"
+        }
+      },
+      "H": {
+        "type": "item",
+        "code": "game:hammer-*",
+        "isTool": true
+      }
+    },
+    "attributes": {
+      "liquidContainerProps": {
+        "requiresContent": {
+          "type": "item",
+          "code": "botanicalleathers:botanicalpitch-lime-hot"
+        },
+        "requiresLitres": 1
+      }
+    },
+    "width": 3,
+    "height": 3,
+    "shapeless": false,
+    "output": {
+      "type": "item",
+      "code": "botanicalleathers:botanicalhide-prepared-huge-fruit",
+      "stacksize": 1
+    }
+  },
+  {
+    "code": "flatten-pitch-citron-small",
+    "comment": "Small Hide - Citron (Hot)",
+    "ingredientPattern": "PH",
+    "recipeGroup": 1,
+    "ingredients": {
+      "P": {
+        "type": "block",
+        "code": "game:bowl-*-fired",
+        "name": "bowl",
+        "returnedStack": {
+          "type": "block",
+          "code": "game:bowl-{bowl}-fired"
+        }
+      },
+      "H": {
+        "type": "item",
+        "code": "game:hammer-*",
+        "isTool": true
+      }
+    },
+    "attributes": {
+      "liquidContainerProps": {
+        "requiresContent": {
+          "type": "item",
+          "code": "botanicalleathers:botanicalpitch-citron-hot"
+        },
+        "requiresLitres": 1
+      }
+    },
+    "width": 2,
+    "height": 1,
+    "shapeless": false,
+    "output": {
+      "type": "item",
+      "code": "botanicalleathers:botanicalhide-prepared-small-fruit",
+      "stacksize": 1
+    }
+  },
+  {
+    "code": "flatten-pitch-citron-medium",
+    "comment": "Medium Hide - Citron (Hot)",
+    "ingredientPattern": "PP,H_",
+    "recipeGroup": 2,
+    "ingredients": {
+      "P": {
+        "type": "block",
+        "code": "game:bowl-*-fired",
+        "name": "bowl",
+        "returnedStack": {
+          "type": "block",
+          "code": "game:bowl-{bowl}-fired"
+        }
+      },
+      "H": {
+        "type": "item",
+        "code": "game:hammer-*",
+        "isTool": true
+      }
+    },
+    "attributes": {
+      "liquidContainerProps": {
+        "requiresContent": {
+          "type": "item",
+          "code": "botanicalleathers:botanicalpitch-citron-hot"
+        },
+        "requiresLitres": 1
+      }
+    },
+    "width": 2,
+    "height": 2,
+    "shapeless": false,
+    "output": {
+      "type": "item",
+      "code": "botanicalleathers:botanicalhide-prepared-medium-fruit",
+      "stacksize": 1
+    }
+  },
+  {
+    "code": "flatten-pitch-citron-large",
+    "comment": "Large Hide - Citron (Hot)",
+    "ingredientPattern": "PP,PP,H_",
+    "recipeGroup": 3,
+    "ingredients": {
+      "P": {
+        "type": "block",
+        "code": "game:bowl-*-fired",
+        "name": "bowl",
+        "returnedStack": {
+          "type": "block",
+          "code": "game:bowl-{bowl}-fired"
+        }
+      },
+      "H": {
+        "type": "item",
+        "code": "game:hammer-*",
+        "isTool": true
+      }
+    },
+    "attributes": {
+      "liquidContainerProps": {
+        "requiresContent": {
+          "type": "item",
+          "code": "botanicalleathers:botanicalpitch-citron-hot"
+        },
+        "requiresLitres": 1
+      }
+    },
+    "width": 2,
+    "height": 3,
+    "shapeless": false,
+    "output": {
+      "type": "item",
+      "code": "botanicalleathers:botanicalhide-prepared-large-fruit",
+      "stacksize": 1
+    }
+  },
+  {
+    "code": "flatten-pitch-citron-huge",
+    "comment": "Huge Hide - Citron (Hot)",
+    "ingredientPattern": "PPP,PPP,H__",
+    "recipeGroup": 4,
+    "ingredients": {
+      "P": {
+        "type": "block",
+        "code": "game:bowl-*-fired",
+        "name": "bowl",
+        "returnedStack": {
+          "type": "block",
+          "code": "game:bowl-{bowl}-fired"
+        }
+      },
+      "H": {
+        "type": "item",
+        "code": "game:hammer-*",
+        "isTool": true
+      }
+    },
+    "attributes": {
+      "liquidContainerProps": {
+        "requiresContent": {
+          "type": "item",
+          "code": "botanicalleathers:botanicalpitch-citron-hot"
+        },
+        "requiresLitres": 1
+      }
+    },
+    "width": 3,
+    "height": 3,
+    "shapeless": false,
+    "output": {
+      "type": "item",
+      "code": "botanicalleathers:botanicalhide-prepared-huge-fruit",
+      "stacksize": 1
+    }
+  },
+  {
+    "code": "flatten-pitch-pomelo-small",
+    "comment": "Small Hide - Pomelo (Hot)",
+    "ingredientPattern": "PH",
+    "recipeGroup": 1,
+    "ingredients": {
+      "P": {
+        "type": "block",
+        "code": "game:bowl-*-fired",
+        "name": "bowl",
+        "returnedStack": {
+          "type": "block",
+          "code": "game:bowl-{bowl}-fired"
+        }
+      },
+      "H": {
+        "type": "item",
+        "code": "game:hammer-*",
+        "isTool": true
+      }
+    },
+    "attributes": {
+      "liquidContainerProps": {
+        "requiresContent": {
+          "type": "item",
+          "code": "botanicalleathers:botanicalpitch-pomelo-hot"
+        },
+        "requiresLitres": 1
+      }
+    },
+    "width": 2,
+    "height": 1,
+    "shapeless": false,
+    "output": {
+      "type": "item",
+      "code": "botanicalleathers:botanicalhide-prepared-small-fruit",
+      "stacksize": 1
+    }
+  },
+  {
+    "code": "flatten-pitch-pomelo-medium",
+    "comment": "Medium Hide - Pomelo (Hot)",
+    "ingredientPattern": "PP,H_",
+    "recipeGroup": 2,
+    "ingredients": {
+      "P": {
+        "type": "block",
+        "code": "game:bowl-*-fired",
+        "name": "bowl",
+        "returnedStack": {
+          "type": "block",
+          "code": "game:bowl-{bowl}-fired"
+        }
+      },
+      "H": {
+        "type": "item",
+        "code": "game:hammer-*",
+        "isTool": true
+      }
+    },
+    "attributes": {
+      "liquidContainerProps": {
+        "requiresContent": {
+          "type": "item",
+          "code": "botanicalleathers:botanicalpitch-pomelo-hot"
+        },
+        "requiresLitres": 1
+      }
+    },
+    "width": 2,
+    "height": 2,
+    "shapeless": false,
+    "output": {
+      "type": "item",
+      "code": "botanicalleathers:botanicalhide-prepared-medium-fruit",
+      "stacksize": 1
+    }
+  },
+  {
+    "code": "flatten-pitch-pomelo-large",
+    "comment": "Large Hide - Pomelo (Hot)",
+    "ingredientPattern": "PP,PP,H_",
+    "recipeGroup": 3,
+    "ingredients": {
+      "P": {
+        "type": "block",
+        "code": "game:bowl-*-fired",
+        "name": "bowl",
+        "returnedStack": {
+          "type": "block",
+          "code": "game:bowl-{bowl}-fired"
+        }
+      },
+      "H": {
+        "type": "item",
+        "code": "game:hammer-*",
+        "isTool": true
+      }
+    },
+    "attributes": {
+      "liquidContainerProps": {
+        "requiresContent": {
+          "type": "item",
+          "code": "botanicalleathers:botanicalpitch-pomelo-hot"
+        },
+        "requiresLitres": 1
+      }
+    },
+    "width": 2,
+    "height": 3,
+    "shapeless": false,
+    "output": {
+      "type": "item",
+      "code": "botanicalleathers:botanicalhide-prepared-large-fruit",
+      "stacksize": 1
+    }
+  },
+  {
+    "code": "flatten-pitch-pomelo-huge",
+    "comment": "Huge Hide - Pomelo (Hot)",
+    "ingredientPattern": "PPP,PPP,H__",
+    "recipeGroup": 4,
+    "ingredients": {
+      "P": {
+        "type": "block",
+        "code": "game:bowl-*-fired",
+        "name": "bowl",
+        "returnedStack": {
+          "type": "block",
+          "code": "game:bowl-{bowl}-fired"
+        }
+      },
+      "H": {
+        "type": "item",
+        "code": "game:hammer-*",
+        "isTool": true
+      }
+    },
+    "attributes": {
+      "liquidContainerProps": {
+        "requiresContent": {
+          "type": "item",
+          "code": "botanicalleathers:botanicalpitch-pomelo-hot"
+        },
+        "requiresLitres": 1
+      }
+    },
+    "width": 3,
+    "height": 3,
+    "shapeless": false,
+    "output": {
+      "type": "item",
+      "code": "botanicalleathers:botanicalhide-prepared-huge-fruit",
+      "stacksize": 1
+    }
+  }
+]

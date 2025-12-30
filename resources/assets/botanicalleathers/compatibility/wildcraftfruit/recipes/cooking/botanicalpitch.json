@@ -1,0 +1,1120 @@
+[
+  {
+    "code": "botanicalpitch-quince-resin",
+    "perishableProps": {
+      "type": "Harden",
+      "freshHours": { "avg": 2 },
+      "transitionHours": { "avg": 0.1 },
+      "transitionRatio": 1,
+      "transitionedStack": {
+        "type": "item",
+        "code": "botanicalleathers:botanicalpitch-quince-cold"
+      }
+    },
+    "shape": { "base": "game:block/food/meal/liquid" },
+    "ingredients": [
+      {
+        "code": "fruitpulp",
+        "validStacks": [
+          {
+            "type": "item",
+            "code": "botanicalleathers:slicedbotanicalpulp-quince"
+          }
+        ],
+        "minQuantity": 1,
+        "maxQuantity": 1
+      },
+      {
+        "code": "resin",
+        "validStacks": [
+          {
+            "type": "item",
+            "code": "game:resin"
+          }
+        ],
+        "minQuantity": 1,
+        "maxQuantity": 1
+      }
+    ],
+    "cooksInto": {
+      "type": "Item",
+      "code": "botanicalleathers:botanicalpitch-quince-hot",
+      "quantity": 100
+    }
+  },
+  {
+    "code": "botanicalpitch-quince-wax",
+    "perishableProps": {
+      "type": "Harden",
+      "freshHours": { "avg": 2 },
+      "transitionHours": { "avg": 0.1 },
+      "transitionRatio": 1,
+      "transitionedStack": {
+        "type": "item",
+        "code": "botanicalleathers:botanicalpitch-quince-cold"
+      }
+    },
+    "shape": { "base": "game:block/food/meal/liquid" },
+    "ingredients": [
+      {
+        "code": "fruitpulp",
+        "validStacks": [
+          {
+            "type": "item",
+            "code": "botanicalleathers:slicedbotanicalpulp-quince"
+          }
+        ],
+        "minQuantity": 1,
+        "maxQuantity": 1
+      },
+      {
+        "code": "binder",
+        "validStacks": [
+          {
+            "type": "item",
+            "code": "game:beeswax"
+          }
+        ],
+        "minQuantity": 1,
+        "maxQuantity": 1
+      }
+    ],
+    "cooksInto": {
+      "type": "Item",
+      "code": "botanicalleathers:botanicalpitch-quince-hot",
+      "quantity": 100
+    }
+  },
+  {
+    "code": "botanicalpitch-jackfruit-resin",
+    "perishableProps": {
+      "type": "Harden",
+      "freshHours": { "avg": 2 },
+      "transitionHours": { "avg": 0.1 },
+      "transitionRatio": 1,
+      "transitionedStack": {
+        "type": "item",
+        "code": "botanicalleathers:botanicalpitch-jackfruit-cold"
+      }
+    },
+    "shape": { "base": "game:block/food/meal/liquid" },
+    "ingredients": [
+      {
+        "code": "fruitpulp",
+        "validStacks": [
+          {
+            "type": "item",
+            "code": "botanicalleathers:slicedbotanicalpulp-jackfruit"
+          }
+        ],
+        "minQuantity": 1,
+        "maxQuantity": 1
+      },
+      {
+        "code": "resin",
+        "validStacks": [
+          {
+            "type": "item",
+            "code": "game:resin"
+          }
+        ],
+        "minQuantity": 1,
+        "maxQuantity": 1
+      }
+    ],
+    "cooksInto": {
+      "type": "Item",
+      "code": "botanicalleathers:botanicalpitch-jackfruit-hot",
+      "quantity": 100
+    }
+  },
+  {
+    "code": "botanicalpitch-jackfruit-wax",
+    "perishableProps": {
+      "type": "Harden",
+      "freshHours": { "avg": 2 },
+      "transitionHours": { "avg": 0.1 },
+      "transitionRatio": 1,
+      "transitionedStack": {
+        "type": "item",
+        "code": "botanicalleathers:botanicalpitch-jackfruit-cold"
+      }
+    },
+    "shape": { "base": "game:block/food/meal/liquid" },
+    "ingredients": [
+      {
+        "code": "fruitpulp",
+        "validStacks": [
+          {
+            "type": "item",
+            "code": "botanicalleathers:slicedbotanicalpulp-jackfruit"
+          }
+        ],
+        "minQuantity": 1,
+        "maxQuantity": 1
+      },
+      {
+        "code": "binder",
+        "validStacks": [
+          {
+            "type": "item",
+            "code": "game:beeswax"
+          }
+        ],
+        "minQuantity": 1,
+        "maxQuantity": 1
+      }
+    ],
+    "cooksInto": {
+      "type": "Item",
+      "code": "botanicalleathers:botanicalpitch-jackfruit-hot",
+      "quantity": 100
+    }
+  },
+  {
+    "code": "botanicalpitch-pandanbits-resin",
+    "perishableProps": {
+      "type": "Harden",
+      "freshHours": { "avg": 2 },
+      "transitionHours": { "avg": 0.1 },
+      "transitionRatio": 1,
+      "transitionedStack": {
+        "type": "item",
+        "code": "botanicalleathers:botanicalpitch-pandanbits-cold"
+      }
+    },
+    "shape": { "base": "game:block/food/meal/liquid" },
+    "ingredients": [
+      {
+        "code": "fruitpulp",
+        "validStacks": [
+          {
+            "type": "item",
+            "code": "botanicalleathers:slicedbotanicalpulp-pandanbits"
+          }
+        ],
+        "minQuantity": 1,
+        "maxQuantity": 1
+      },
+      {
+        "code": "resin",
+        "validStacks": [
+          {
+            "type": "item",
+            "code": "game:resin"
+          }
+        ],
+        "minQuantity": 1,
+        "maxQuantity": 1
+      }
+    ],
+    "cooksInto": {
+      "type": "Item",
+      "code": "botanicalleathers:botanicalpitch-pandanbits-hot",
+      "quantity": 100
+    }
+  },
+  {
+    "code": "botanicalpitch-pandanbits-wax",
+    "perishableProps": {
+      "type": "Harden",
+      "freshHours": { "avg": 2 },
+      "transitionHours": { "avg": 0.1 },
+      "transitionRatio": 1,
+      "transitionedStack": {
+        "type": "item",
+        "code": "botanicalleathers:botanicalpitch-pandanbits-cold"
+      }
+    },
+    "shape": { "base": "game:block/food/meal/liquid" },
+    "ingredients": [
+      {
+        "code": "fruitpulp",
+        "validStacks": [
+          {
+            "type": "item",
+            "code": "botanicalleathers:slicedbotanicalpulp-pandanbits"
+          }
+        ],
+        "minQuantity": 1,
+        "maxQuantity": 1
+      },
+      {
+        "code": "binder",
+        "validStacks": [
+          {
+            "type": "item",
+            "code": "game:beeswax"
+          }
+        ],
+        "minQuantity": 1,
+        "maxQuantity": 1
+      }
+    ],
+    "cooksInto": {
+      "type": "Item",
+      "code": "botanicalleathers:botanicalpitch-pandanbits-hot",
+      "quantity": 100
+    }
+  },
+  {
+    "code": "botanicalpitch-grapefruit-resin",
+    "perishableProps": {
+      "type": "Harden",
+      "freshHours": { "avg": 2 },
+      "transitionHours": { "avg": 0.1 },
+      "transitionRatio": 1,
+      "transitionedStack": {
+        "type": "item",
+        "code": "botanicalleathers:botanicalpitch-grapefruit-cold"
+      }
+    },
+    "shape": { "base": "game:block/food/meal/liquid" },
+    "ingredients": [
+      {
+        "code": "fruitpulp",
+        "validStacks": [
+          {
+            "type": "item",
+            "code": "botanicalleathers:slicedbotanicalpulp-grapefruit"
+          }
+        ],
+        "minQuantity": 1,
+        "maxQuantity": 1
+      },
+      {
+        "code": "resin",
+        "validStacks": [
+          {
+            "type": "item",
+            "code": "game:resin"
+          }
+        ],
+        "minQuantity": 1,
+        "maxQuantity": 1
+      }
+    ],
+    "cooksInto": {
+      "type": "Item",
+      "code": "botanicalleathers:botanicalpitch-grapefruit-hot",
+      "quantity": 100
+    }
+  },
+  {
+    "code": "botanicalpitch-grapefruit-wax",
+    "perishableProps": {
+      "type": "Harden",
+      "freshHours": { "avg": 2 },
+      "transitionHours": { "avg": 0.1 },
+      "transitionRatio": 1,
+      "transitionedStack": {
+        "type": "item",
+        "code": "botanicalleathers:botanicalpitch-grapefruit-cold"
+      }
+    },
+    "shape": { "base": "game:block/food/meal/liquid" },
+    "ingredients": [
+      {
+        "code": "fruitpulp",
+        "validStacks": [
+          {
+            "type": "item",
+            "code": "botanicalleathers:slicedbotanicalpulp-grapefruit"
+          }
+        ],
+        "minQuantity": 1,
+        "maxQuantity": 1
+      },
+      {
+        "code": "binder",
+        "validStacks": [
+          {
+            "type": "item",
+            "code": "game:beeswax"
+          }
+        ],
+        "minQuantity": 1,
+        "maxQuantity": 1
+      }
+    ],
+    "cooksInto": {
+      "type": "Item",
+      "code": "botanicalleathers:botanicalpitch-grapefruit-hot",
+      "quantity": 100
+    }
+  },
+  {
+    "code": "botanicalpitch-blackgrape-resin",
+    "perishableProps": {
+      "type": "Harden",
+      "freshHours": { "avg": 2 },
+      "transitionHours": { "avg": 0.1 },
+      "transitionRatio": 1,
+      "transitionedStack": {
+        "type": "item",
+        "code": "botanicalleathers:botanicalpitch-blackgrape-cold"
+      }
+    },
+    "shape": { "base": "game:block/food/meal/liquid" },
+    "ingredients": [
+      {
+        "code": "fruitpulp",
+        "validStacks": [
+          {
+            "type": "item",
+            "code": "botanicalleathers:slicedbotanicalpulp-blackgrape"
+          }
+        ],
+        "minQuantity": 1,
+        "maxQuantity": 1
+      },
+      {
+        "code": "resin",
+        "validStacks": [
+          {
+            "type": "item",
+            "code": "game:resin"
+          }
+        ],
+        "minQuantity": 1,
+        "maxQuantity": 1
+      }
+    ],
+    "cooksInto": {
+      "type": "Item",
+      "code": "botanicalleathers:botanicalpitch-blackgrape-hot",
+      "quantity": 100
+    }
+  },
+  {
+    "code": "botanicalpitch-blackgrape-wax",
+    "perishableProps": {
+      "type": "Harden",
+      "freshHours": { "avg": 2 },
+      "transitionHours": { "avg": 0.1 },
+      "transitionRatio": 1,
+      "transitionedStack": {
+        "type": "item",
+        "code": "botanicalleathers:botanicalpitch-blackgrape-cold"
+      }
+    },
+    "shape": { "base": "game:block/food/meal/liquid" },
+    "ingredients": [
+      {
+        "code": "fruitpulp",
+        "validStacks": [
+          {
+            "type": "item",
+            "code": "botanicalleathers:slicedbotanicalpulp-blackgrape"
+          }
+        ],
+        "minQuantity": 1,
+        "maxQuantity": 1
+      },
+      {
+        "code": "binder",
+        "validStacks": [
+          {
+            "type": "item",
+            "code": "game:beeswax"
+          }
+        ],
+        "minQuantity": 1,
+        "maxQuantity": 1
+      }
+    ],
+    "cooksInto": {
+      "type": "Item",
+      "code": "botanicalleathers:botanicalpitch-blackgrape-hot",
+      "quantity": 100
+    }
+  },
+  {
+    "code": "botanicalpitch-redgrape-resin",
+    "perishableProps": {
+      "type": "Harden",
+      "freshHours": { "avg": 2 },
+      "transitionHours": { "avg": 0.1 },
+      "transitionRatio": 1,
+      "transitionedStack": {
+        "type": "item",
+        "code": "botanicalleathers:botanicalpitch-redgrape-cold"
+      }
+    },
+    "shape": { "base": "game:block/food/meal/liquid" },
+    "ingredients": [
+      {
+        "code": "fruitpulp",
+        "validStacks": [
+          {
+            "type": "item",
+            "code": "botanicalleathers:slicedbotanicalpulp-redgrape"
+          }
+        ],
+        "minQuantity": 1,
+        "maxQuantity": 1
+      },
+      {
+        "code": "resin",
+        "validStacks": [
+          {
+            "type": "item",
+            "code": "game:resin"
+          }
+        ],
+        "minQuantity": 1,
+        "maxQuantity": 1
+      }
+    ],
+    "cooksInto": {
+      "type": "Item",
+      "code": "botanicalleathers:botanicalpitch-redgrape-hot",
+      "quantity": 100
+    }
+  },
+  {
+    "code": "botanicalpitch-redgrape-wax",
+    "perishableProps": {
+      "type": "Harden",
+      "freshHours": { "avg": 2 },
+      "transitionHours": { "avg": 0.1 },
+      "transitionRatio": 1,
+      "transitionedStack": {
+        "type": "item",
+        "code": "botanicalleathers:botanicalpitch-redgrape-cold"
+      }
+    },
+    "shape": { "base": "game:block/food/meal/liquid" },
+    "ingredients": [
+      {
+        "code": "fruitpulp",
+        "validStacks": [
+          {
+            "type": "item",
+            "code": "botanicalleathers:slicedbotanicalpulp-redgrape"
+          }
+        ],
+        "minQuantity": 1,
+        "maxQuantity": 1
+      },
+      {
+        "code": "binder",
+        "validStacks": [
+          {
+            "type": "item",
+            "code": "game:beeswax"
+          }
+        ],
+        "minQuantity": 1,
+        "maxQuantity": 1
+      }
+    ],
+    "cooksInto": {
+      "type": "Item",
+      "code": "botanicalleathers:botanicalpitch-redgrape-hot",
+      "quantity": 100
+    }
+  },
+  {
+    "code": "botanicalpitch-whitegrape-resin",
+    "perishableProps": {
+      "type": "Harden",
+      "freshHours": { "avg": 2 },
+      "transitionHours": { "avg": 0.1 },
+      "transitionRatio": 1,
+      "transitionedStack": {
+        "type": "item",
+        "code": "botanicalleathers:botanicalpitch-whitegrape-cold"
+      }
+    },
+    "shape": { "base": "game:block/food/meal/liquid" },
+    "ingredients": [
+      {
+        "code": "fruitpulp",
+        "validStacks": [
+          {
+            "type": "item",
+            "code": "botanicalleathers:slicedbotanicalpulp-whitegrape"
+          }
+        ],
+        "minQuantity": 1,
+        "maxQuantity": 1
+      },
+      {
+        "code": "resin",
+        "validStacks": [
+          {
+            "type": "item",
+            "code": "game:resin"
+          }
+        ],
+        "minQuantity": 1,
+        "maxQuantity": 1
+      }
+    ],
+    "cooksInto": {
+      "type": "Item",
+      "code": "botanicalleathers:botanicalpitch-whitegrape-hot",
+      "quantity": 100
+    }
+  },
+  {
+    "code": "botanicalpitch-whitegrape-wax",
+    "perishableProps": {
+      "type": "Harden",
+      "freshHours": { "avg": 2 },
+      "transitionHours": { "avg": 0.1 },
+      "transitionRatio": 1,
+      "transitionedStack": {
+        "type": "item",
+        "code": "botanicalleathers:botanicalpitch-whitegrape-cold"
+      }
+    },
+    "shape": { "base": "game:block/food/meal/liquid" },
+    "ingredients": [
+      {
+        "code": "fruitpulp",
+        "validStacks": [
+          {
+            "type": "item",
+            "code": "botanicalleathers:slicedbotanicalpulp-whitegrape"
+          }
+        ],
+        "minQuantity": 1,
+        "maxQuantity": 1
+      },
+      {
+        "code": "binder",
+        "validStacks": [
+          {
+            "type": "item",
+            "code": "game:beeswax"
+          }
+        ],
+        "minQuantity": 1,
+        "maxQuantity": 1
+      }
+    ],
+    "cooksInto": {
+      "type": "Item",
+      "code": "botanicalleathers:botanicalpitch-whitegrape-hot",
+      "quantity": 100
+    }
+  },
+  {
+    "code": "botanicalpitch-foxgrape-resin",
+    "perishableProps": {
+      "type": "Harden",
+      "freshHours": { "avg": 2 },
+      "transitionHours": { "avg": 0.1 },
+      "transitionRatio": 1,
+      "transitionedStack": {
+        "type": "item",
+        "code": "botanicalleathers:botanicalpitch-foxgrape-cold"
+      }
+    },
+    "shape": { "base": "game:block/food/meal/liquid" },
+    "ingredients": [
+      {
+        "code": "fruitpulp",
+        "validStacks": [
+          {
+            "type": "item",
+            "code": "botanicalleathers:slicedbotanicalpulp-foxgrape"
+          }
+        ],
+        "minQuantity": 1,
+        "maxQuantity": 1
+      },
+      {
+        "code": "resin",
+        "validStacks": [
+          {
+            "type": "item",
+            "code": "game:resin"
+          }
+        ],
+        "minQuantity": 1,
+        "maxQuantity": 1
+      }
+    ],
+    "cooksInto": {
+      "type": "Item",
+      "code": "botanicalleathers:botanicalpitch-foxgrape-hot",
+      "quantity": 100
+    }
+  },
+  {
+    "code": "botanicalpitch-foxgrape-wax",
+    "perishableProps": {
+      "type": "Harden",
+      "freshHours": { "avg": 2 },
+      "transitionHours": { "avg": 0.1 },
+      "transitionRatio": 1,
+      "transitionedStack": {
+        "type": "item",
+        "code": "botanicalleathers:botanicalpitch-foxgrape-cold"
+      }
+    },
+    "shape": { "base": "game:block/food/meal/liquid" },
+    "ingredients": [
+      {
+        "code": "fruitpulp",
+        "validStacks": [
+          {
+            "type": "item",
+            "code": "botanicalleathers:slicedbotanicalpulp-foxgrape"
+          }
+        ],
+        "minQuantity": 1,
+        "maxQuantity": 1
+      },
+      {
+        "code": "binder",
+        "validStacks": [
+          {
+            "type": "item",
+            "code": "game:beeswax"
+          }
+        ],
+        "minQuantity": 1,
+        "maxQuantity": 1
+      }
+    ],
+    "cooksInto": {
+      "type": "Item",
+      "code": "botanicalleathers:botanicalpitch-foxgrape-hot",
+      "quantity": 100
+    }
+  },
+  {
+    "code": "botanicalpitch-virgingrape-resin",
+    "perishableProps": {
+      "type": "Harden",
+      "freshHours": { "avg": 2 },
+      "transitionHours": { "avg": 0.1 },
+      "transitionRatio": 1,
+      "transitionedStack": {
+        "type": "item",
+        "code": "botanicalleathers:botanicalpitch-virgingrape-cold"
+      }
+    },
+    "shape": { "base": "game:block/food/meal/liquid" },
+    "ingredients": [
+      {
+        "code": "fruitpulp",
+        "validStacks": [
+          {
+            "type": "item",
+            "code": "botanicalleathers:slicedbotanicalpulp-virgingrape"
+          }
+        ],
+        "minQuantity": 1,
+        "maxQuantity": 1
+      },
+      {
+        "code": "resin",
+        "validStacks": [
+          {
+            "type": "item",
+            "code": "game:resin"
+          }
+        ],
+        "minQuantity": 1,
+        "maxQuantity": 1
+      }
+    ],
+    "cooksInto": {
+      "type": "Item",
+      "code": "botanicalleathers:botanicalpitch-virgingrape-hot",
+      "quantity": 100
+    }
+  },
+  {
+    "code": "botanicalpitch-virgingrape-wax",
+    "perishableProps": {
+      "type": "Harden",
+      "freshHours": { "avg": 2 },
+      "transitionHours": { "avg": 0.1 },
+      "transitionRatio": 1,
+      "transitionedStack": {
+        "type": "item",
+        "code": "botanicalleathers:botanicalpitch-virgingrape-cold"
+      }
+    },
+    "shape": { "base": "game:block/food/meal/liquid" },
+    "ingredients": [
+      {
+        "code": "fruitpulp",
+        "validStacks": [
+          {
+            "type": "item",
+            "code": "botanicalleathers:slicedbotanicalpulp-virgingrape"
+          }
+        ],
+        "minQuantity": 1,
+        "maxQuantity": 1
+      },
+      {
+        "code": "binder",
+        "validStacks": [
+          {
+            "type": "item",
+            "code": "game:beeswax"
+          }
+        ],
+        "minQuantity": 1,
+        "maxQuantity": 1
+      }
+    ],
+    "cooksInto": {
+      "type": "Item",
+      "code": "botanicalleathers:botanicalpitch-virgingrape-hot",
+      "quantity": 100
+    }
+  },
+  {
+    "code": "botanicalpitch-lemonaspen-resin",
+    "perishableProps": {
+      "type": "Harden",
+      "freshHours": { "avg": 2 },
+      "transitionHours": { "avg": 0.1 },
+      "transitionRatio": 1,
+      "transitionedStack": {
+        "type": "item",
+        "code": "botanicalleathers:botanicalpitch-lemonaspen-cold"
+      }
+    },
+    "shape": { "base": "game:block/food/meal/liquid" },
+    "ingredients": [
+      {
+        "code": "fruitpulp",
+        "validStacks": [
+          {
+            "type": "item",
+            "code": "botanicalleathers:slicedbotanicalpulp-lemonaspen"
+          }
+        ],
+        "minQuantity": 1,
+        "maxQuantity": 1
+      },
+      {
+        "code": "resin",
+        "validStacks": [
+          {
+            "type": "item",
+            "code": "game:resin"
+          }
+        ],
+        "minQuantity": 1,
+        "maxQuantity": 1
+      }
+    ],
+    "cooksInto": {
+      "type": "Item",
+      "code": "botanicalleathers:botanicalpitch-lemonaspen-hot",
+      "quantity": 100
+    }
+  },
+  {
+    "code": "botanicalpitch-lemonaspen-wax",
+    "perishableProps": {
+      "type": "Harden",
+      "freshHours": { "avg": 2 },
+      "transitionHours": { "avg": 0.1 },
+      "transitionRatio": 1,
+      "transitionedStack": {
+        "type": "item",
+        "code": "botanicalleathers:botanicalpitch-lemonaspen-cold"
+      }
+    },
+    "shape": { "base": "game:block/food/meal/liquid" },
+    "ingredients": [
+      {
+        "code": "fruitpulp",
+        "validStacks": [
+          {
+            "type": "item",
+            "code": "botanicalleathers:slicedbotanicalpulp-lemonaspen"
+          }
+        ],
+        "minQuantity": 1,
+        "maxQuantity": 1
+      },
+      {
+        "code": "binder",
+        "validStacks": [
+          {
+            "type": "item",
+            "code": "game:beeswax"
+          }
+        ],
+        "minQuantity": 1,
+        "maxQuantity": 1
+      }
+    ],
+    "cooksInto": {
+      "type": "Item",
+      "code": "botanicalleathers:botanicalpitch-lemonaspen-hot",
+      "quantity": 100
+    }
+  },
+  {
+    "code": "botanicalpitch-lime-resin",
+    "perishableProps": {
+      "type": "Harden",
+      "freshHours": { "avg": 2 },
+      "transitionHours": { "avg": 0.1 },
+      "transitionRatio": 1,
+      "transitionedStack": {
+        "type": "item",
+        "code": "botanicalleathers:botanicalpitch-lime-cold"
+      }
+    },
+    "shape": { "base": "game:block/food/meal/liquid" },
+    "ingredients": [
+      {
+        "code": "fruitpulp",
+        "validStacks": [
+          {
+            "type": "item",
+            "code": "botanicalleathers:slicedbotanicalpulp-lime"
+          }
+        ],
+        "minQuantity": 1,
+        "maxQuantity": 1
+      },
+      {
+        "code": "resin",
+        "validStacks": [
+          {
+            "type": "item",
+            "code": "game:resin"
+          }
+        ],
+        "minQuantity": 1,
+        "maxQuantity": 1
+      }
+    ],
+    "cooksInto": {
+      "type": "Item",
+      "code": "botanicalleathers:botanicalpitch-lime-hot",
+      "quantity": 100
+    }
+  },
+  {
+    "code": "botanicalpitch-lime-wax",
+    "perishableProps": {
+      "type": "Harden",
+      "freshHours": { "avg": 2 },
+      "transitionHours": { "avg": 0.1 },
+      "transitionRatio": 1,
+      "transitionedStack": {
+        "type": "item",
+        "code": "botanicalleathers:botanicalpitch-lime-cold"
+      }
+    },
+    "shape": { "base": "game:block/food/meal/liquid" },
+    "ingredients": [
+      {
+        "code": "fruitpulp",
+        "validStacks": [
+          {
+            "type": "item",
+            "code": "botanicalleathers:slicedbotanicalpulp-lime"
+          }
+        ],
+        "minQuantity": 1,
+        "maxQuantity": 1
+      },
+      {
+        "code": "binder",
+        "validStacks": [
+          {
+            "type": "item",
+            "code": "game:beeswax"
+          }
+        ],
+        "minQuantity": 1,
+        "maxQuantity": 1
+      }
+    ],
+    "cooksInto": {
+      "type": "Item",
+      "code": "botanicalleathers:botanicalpitch-lime-hot",
+      "quantity": 100
+    }
+  },
+  {
+    "code": "botanicalpitch-citron-resin",
+    "perishableProps": {
+      "type": "Harden",
+      "freshHours": { "avg": 2 },
+      "transitionHours": { "avg": 0.1 },
+      "transitionRatio": 1,
+      "transitionedStack": {
+        "type": "item",
+        "code": "botanicalleathers:botanicalpitch-citron-cold"
+      }
+    },
+    "shape": { "base": "game:block/food/meal/liquid" },
+    "ingredients": [
+      {
+        "code": "fruitpulp",
+        "validStacks": [
+          {
+            "type": "item",
+            "code": "botanicalleathers:slicedbotanicalpulp-citron"
+          }
+        ],
+        "minQuantity": 1,
+        "maxQuantity": 1
+      },
+      {
+        "code": "resin",
+        "validStacks": [
+          {
+            "type": "item",
+            "code": "game:resin"
+          }
+        ],
+        "minQuantity": 1,
+        "maxQuantity": 1
+      }
+    ],
+    "cooksInto": {
+      "type": "Item",
+      "code": "botanicalleathers:botanicalpitch-citron-hot",
+      "quantity": 100
+    }
+  },
+  {
+    "code": "botanicalpitch-citron-wax",
+    "perishableProps": {
+      "type": "Harden",
+      "freshHours": { "avg": 2 },
+      "transitionHours": { "avg": 0.1 },
+      "transitionRatio": 1,
+      "transitionedStack": {
+        "type": "item",
+        "code": "botanicalleathers:botanicalpitch-citron-cold"
+      }
+    },
+    "shape": { "base": "game:block/food/meal/liquid" },
+    "ingredients": [
+      {
+        "code": "fruitpulp",
+        "validStacks": [
+          {
+            "type": "item",
+            "code": "botanicalleathers:slicedbotanicalpulp-citron"
+          }
+        ],
+        "minQuantity": 1,
+        "maxQuantity": 1
+      },
+      {
+        "code": "binder",
+        "validStacks": [
+          {
+            "type": "item",
+            "code": "game:beeswax"
+          }
+        ],
+        "minQuantity": 1,
+        "maxQuantity": 1
+      }
+    ],
+    "cooksInto": {
+      "type": "Item",
+      "code": "botanicalleathers:botanicalpitch-citron-hot",
+      "quantity": 100
+    }
+  },
+  {
+    "code": "botanicalpitch-pomelo-resin",
+    "perishableProps": {
+      "type": "Harden",
+      "freshHours": { "avg": 2 },
+      "transitionHours": { "avg": 0.1 },
+      "transitionRatio": 1,
+      "transitionedStack": {
+        "type": "item",
+        "code": "botanicalleathers:botanicalpitch-pomelo-cold"
+      }
+    },
+    "shape": { "base": "game:block/food/meal/liquid" },
+    "ingredients": [
+      {
+        "code": "fruitpulp",
+        "validStacks": [
+          {
+            "type": "item",
+            "code": "botanicalleathers:slicedbotanicalpulp-pomelo"
+          }
+        ],
+        "minQuantity": 1,
+        "maxQuantity": 1
+      },
+      {
+        "code": "resin",
+        "validStacks": [
+          {
+            "type": "item",
+            "code": "game:resin"
+          }
+        ],
+        "minQuantity": 1,
+        "maxQuantity": 1
+      }
+    ],
+    "cooksInto": {
+      "type": "Item",
+      "code": "botanicalleathers:botanicalpitch-pomelo-hot",
+      "quantity": 100
+    }
+  },
+  {
+    "code": "botanicalpitch-pomelo-wax",
+    "perishableProps": {
+      "type": "Harden",
+      "freshHours": { "avg": 2 },
+      "transitionHours": { "avg": 0.1 },
+      "transitionRatio": 1,
+      "transitionedStack": {
+        "type": "item",
+        "code": "botanicalleathers:botanicalpitch-pomelo-cold"
+      }
+    },
+    "shape": { "base": "game:block/food/meal/liquid" },
+    "ingredients": [
+      {
+        "code": "fruitpulp",
+        "validStacks": [
+          {
+            "type": "item",
+            "code": "botanicalleathers:slicedbotanicalpulp-pomelo"
+          }
+        ],
+        "minQuantity": 1,
+        "maxQuantity": 1
+      },
+      {
+        "code": "binder",
+        "validStacks": [
+          {
+            "type": "item",
+            "code": "game:beeswax"
+          }
+        ],
+        "minQuantity": 1,
+        "maxQuantity": 1
+      }
+    ],
+    "cooksInto": {
+      "type": "Item",
+      "code": "botanicalleathers:botanicalpitch-pomelo-hot",
+      "quantity": 100
+    }
+  }
+]

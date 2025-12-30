@@ -1,3 +1,12 @@
+v1.2.0 - Compatibility Update - 2025-12-30
+- Added compatibility for 14 new fruits from Wildcraft: Fruits and Nuts.
+- Implemented full processing chain (pulp, paste, hide) for:
+  * Exotics: Jackfruit, Pandan, Quince.
+  * Grapes: Black, Red, White, Fox, Virgin.
+  * Citrus: Grapefruit, Pomelo, Citron, Lemon, Lime, Lemon Aspen.
+- Added vanilla 'Orange' variant for broader compatibility.
+- Tweaked 'botanicalhide' GUI transform scales for better item preview.
+
 v1.1.0 - Compatibility Update - 2025-12-19
 - Added compatibility recipes for A Culinary Artillery: ACA barks are now valid inputs for the cork path.
 - Added: compatibilty for ACA users. bark can be used for making soakedcork. debarked-oak-log gives back 4 barks.

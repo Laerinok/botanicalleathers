@@ -5,7 +5,7 @@
 	"variantgroups": [
 		{
 			"code": "type",
-			"states": [ "apple", "mango", "pineappleleaf", "cactusfiber" ]
+			"states": [ "apple", "mango", "pineappleleaf", "cactusfiber", "orange" ]
 		},
 		{
 			"code": "state",
@@ -119,6 +119,18 @@
 				"transitionedStack": {
 					"type": "item",
 					"code": "botanicalleathers:botanicalpitch-cactusfiber-cold"
+				},
+				"transitionRatio": 1
+			}
+		],
+		"*-orange-hot": [
+			{
+				"type": "Harden",
+				"freshHours": { "avg": 2 },
+				"transitionHours": { "avg": 0.1 },
+				"transitionedStack": {
+					"type": "item",
+					"code": "botanicalleathers:botanicalpitch-orange-cold"
 				},
 				"transitionRatio": 1
 			}

@@ -86,5 +86,29 @@
       "code": "botanicalleathers:slicedbotanicalpulp-cactusfiber",
       "stacksize": 1
     }
+  },
+
+  {
+    "code": "slicedbotanicalpulp-orange",
+    "ingredientPattern": "I,T",
+    "ingredients": {
+      "I": {
+        "type": "item",
+        "code": "game:pressedmash-orange"
+      },
+      "T": {
+        "type": "item",
+        "code": "game:knife-*",
+        "isTool": true
+      }
+    },
+    "shapeless": true,
+    "width": 1,
+    "height": 2,
+    "output": {
+      "type": "item",
+      "code": "botanicalleathers:slicedbotanicalpulp-orange",
+      "stacksize": 1
+    }
   }
 ]

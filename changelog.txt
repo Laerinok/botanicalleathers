@@ -13,7 +13,6 @@ TWEAKED
 
 FIXED
 - Resolved an issue where ingredients were not displaying in the Handbook for Barrel recipes.
-- Implemented icon cycling for Mushrooms and Botanical Hides in barrel recipes to correctly show all valid variants.
 
 
 v1.1.0 - Compatibility Update - 2025-12-19

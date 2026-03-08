@@ -38,7 +38,7 @@
   },
   "texturesByType": {
     "*-prepared-*-fungus": {
-      "material": { "base": "game:block/plant/mushroom/bolete/cap" }
+      "material": { "base": "game:block/plant/mushroom/boletecap" }
     },
     "*-prepared-*-fruit": {
       "material": { "base": "block/liquid/botanicalpitch-apple-cold" }

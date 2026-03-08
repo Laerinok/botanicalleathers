@@ -3,7 +3,7 @@
   <PropertyGroup>
     <ModName>Botanical Leathers</ModName>
     <ModType>content</ModType>
-    <ModVersion>1.2.1</ModVersion>
+    <ModVersion>1.2.2</ModVersion>
     <ModId>botanicalleathers</ModId>
     <Description>Adds vegetarian alternatives to leather crafting using mushrooms, fruit mash, and bark.</Description>
     <Side>universal</Side>
@@ -19,12 +19,12 @@
 
   <!-- Dependencies -->
   <ItemGroup>
-    <Dependencies Include="game" Version="1.21.5" />
+    <Dependencies Include="game" Version="1.22.0-rc.1" />
   </ItemGroup>
 
   <!-- Project settings -->
   <PropertyGroup>
-    <TargetFramework>net8.0</TargetFramework>
+    <TargetFramework>net10.0</TargetFramework>
     <Nullable>enable</Nullable>
     <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
     <ImplicitUsings>enable</ImplicitUsings>

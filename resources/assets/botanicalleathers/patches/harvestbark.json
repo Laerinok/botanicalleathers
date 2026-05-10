@@ -13,6 +13,10 @@
       {
         "modid": "ancienttools",
         "invert": true
+      },
+      {
+        "modid": "indappledgroves",
+        "invert": true
       }
     ]
   },
@@ -29,6 +33,10 @@
       },
       {
         "modid": "ancienttools",
+        "invert": true
+      },
+      {
+        "modid": "indappledgroves",
         "invert": true
       }
     ]
@@ -50,6 +58,10 @@
       },
       {
         "modid": "ancienttools",
+        "invert": true
+      },
+      {
+        "modid": "indappledgroves",
         "invert": true
       }
     ]
@@ -94,6 +106,10 @@
       },
       {
         "modid": "ancienttools",
+        "invert": true
+      },
+      {
+        "modid": "indappledgroves",
         "invert": true
       }
     ]

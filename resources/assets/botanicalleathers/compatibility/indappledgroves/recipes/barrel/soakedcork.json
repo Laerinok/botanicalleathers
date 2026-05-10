@@ -1,7 +1,6 @@
 {
-  "code": "soakcork",
+  "code": "soakcork-indappledgroves",
   "sealHours": 72,
-  "enabled": true,
   "ingredients": [
     {
       "type": "item",
@@ -10,13 +9,13 @@
     },
     {
       "type": "item",
-      "code": "corkmaterial-raw",
+      "code": "indappledgroves:bark-oak-dry",
       "quantity": 1
     }
   ],
   "output": {
     "type": "item",
-    "code": "corkmaterial-soaked",
+    "code": "botanicalleathers:corkmaterial-soaked",
     "stackSize": 1
   }
 }

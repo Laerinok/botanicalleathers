@@ -1,0 +1,9 @@
+[
+  {
+    "file": "recipes/barrel/soakedcork.json",
+    "op": "replace",
+    "path": "/enabled",
+    "value": false,
+    "dependsOn": [ { "modid": "indappledgroves" } ]
+  }
+]

@@ -1,3 +1,7 @@
+v1.3.0 - Compatibility Update - 2026-05-09
+ADDED
+- Added compatibility recipes for In Dappled Groves: barks are now valid inputs for the cork path.
+
 v1.2.2 - fix - 2026-03-08
 FIXED
 - Fixed: Updated mushroom hide texture paths to reflect changes in Vintage Story 1.22.0-rc.1, resolving missing texture issues for prepared mushroom hides.

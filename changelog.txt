@@ -1,3 +1,11 @@
+v1.3.2 - fix - 2026-05-24
+FIXED
+- Updated the pressed mash patch to restore compatibility with VS 1.22, resolving a conflict that disabled vanilla olive oil pressing.
+
+v1.3.1 - fix 2026-05-23
+FIXED
+- Fixed an issue where pressing mushrooms would not complete, leaving a small amount of liquid stuck in the fruit press.
+
 v1.3.0 - Compatibility Update - 2026-05-09
 ADDED
 - Added compatibility recipes for In Dappled Groves: barks are now valid inputs for the cork path.

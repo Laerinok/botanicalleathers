@@ -33,7 +33,16 @@
           "stacksize": 1
         }
       },
-      "*-olive": null,
+      "*-olive": {
+				"liquidStack": { 
+          "type": "item",
+          "code": "oilportion-olive",
+          "stacksize": 1 },
+				"pressedStack": { 
+          "type": "item",
+          "code": "pressedmash-olive",
+          "stacksize": 1 }
+			},
       "*-mushroom": {
         "liquidStack": {
           "type": "item",
